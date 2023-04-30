@@ -24,19 +24,6 @@ void FazAlgo(int n) {
   }
 }
 
-void bubble_sort(int arr[], int n) {
-  int i, j;
-  for (i = 0; i < n - 1; i++) {
-    for (j = 0; j < n - i - 1; j++) {
-      if (arr[j] > arr[j + 1]) {
-        int temp = arr[j];
-        arr[j] = arr[j + 1];
-        arr[j + 1] = temp;
-      }
-    }
-  }
-}
-
 int main(int argc, char **argv) {
   FILE *fp;
   int num, count = 0;
@@ -52,15 +39,18 @@ int main(int argc, char **argv) {
     exit(1);
   }
 
-  fscanf(fp, "%d", &num);
-  int n = num;  // número total de entradas do arquivo
+  while (fscanf(fp, "%d", &num) == 1) {  // lê todos os elementos do arquivo
+    count++;                             // conta quantos elementos foram lidos
+  }
+  int n = count;
+  printf("QUANTIDADE DE ITEMS: %d", n);  // número total de entradas do arquivo
   fclose(fp);
 
   gettimeofday(&t1, NULL);
   FazAlgo(n);
   gettimeofday(&t2, NULL);
 
-  printf("\n Tempo de Execucao: ---> %lf \n", time_diff(t2, t1) / 100000.0);
+  printf("\n Tempo de Execucao: ---> %lf \n", time_diff(t2, t1) / 1000000.0);
 
   return 0;
 }
