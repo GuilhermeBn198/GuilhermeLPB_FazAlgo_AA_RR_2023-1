@@ -1,0 +1,367 @@
+555 - [2023-04-30 16:41:06,225] : DEBUG -> Experiment script executed
+555 - [2023-04-30 16:41:06,226] : DEBUG -> Listing input files to the program
+555 - [2023-04-30 16:41:06,228] : DEBUG -> Running the program with each input 13 times
+555 - [2023-04-30 16:41:06,230] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/.DS_Store - Time 0
+555 - [2023-04-30 16:41:06,237] : DEBUG -> Program output: - Time 0
+555 - [2023-04-30 16:41:06,237] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,238] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,238] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,238] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/.DS_Store - Time 1
+555 - [2023-04-30 16:41:06,244] : DEBUG -> Program output: - Time 1
+555 - [2023-04-30 16:41:06,244] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,245] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,245] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,245] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/.DS_Store - Time 2
+555 - [2023-04-30 16:41:06,251] : DEBUG -> Program output: - Time 2
+555 - [2023-04-30 16:41:06,251] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,252] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,252] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,252] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/.DS_Store - Time 3
+555 - [2023-04-30 16:41:06,258] : DEBUG -> Program output: - Time 3
+555 - [2023-04-30 16:41:06,259] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,259] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,259] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,259] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/.DS_Store - Time 4
+555 - [2023-04-30 16:41:06,265] : DEBUG -> Program output: - Time 4
+555 - [2023-04-30 16:41:06,265] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,265] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,266] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,266] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/.DS_Store - Time 5
+555 - [2023-04-30 16:41:06,272] : DEBUG -> Program output: - Time 5
+555 - [2023-04-30 16:41:06,273] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,273] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,273] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,273] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/.DS_Store - Time 6
+555 - [2023-04-30 16:41:06,279] : DEBUG -> Program output: - Time 6
+555 - [2023-04-30 16:41:06,279] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,279] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,280] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,280] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/.DS_Store - Time 7
+555 - [2023-04-30 16:41:06,286] : DEBUG -> Program output: - Time 7
+555 - [2023-04-30 16:41:06,287] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,287] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,287] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,287] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/.DS_Store - Time 8
+555 - [2023-04-30 16:41:06,294] : DEBUG -> Program output: - Time 8
+555 - [2023-04-30 16:41:06,294] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,294] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,294] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,295] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/.DS_Store - Time 9
+555 - [2023-04-30 16:41:06,301] : DEBUG -> Program output: - Time 9
+555 - [2023-04-30 16:41:06,301] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,301] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,302] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,302] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/.DS_Store - Time 10
+555 - [2023-04-30 16:41:06,308] : DEBUG -> Program output: - Time 10
+555 - [2023-04-30 16:41:06,308] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,309] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000010 
+
+555 - [2023-04-30 16:41:06,309] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,309] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/.DS_Store - Time 11
+555 - [2023-04-30 16:41:06,316] : DEBUG -> Program output: - Time 11
+555 - [2023-04-30 16:41:06,316] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,316] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,317] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,317] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/.DS_Store - Time 12
+555 - [2023-04-30 16:41:06,324] : DEBUG -> Program output: - Time 12
+555 - [2023-04-30 16:41:06,324] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,324] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,324] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,326] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc10k.csv - Time 0
+555 - [2023-04-30 16:41:06,332] : DEBUG -> Program output: - Time 0
+555 - [2023-04-30 16:41:06,333] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,333] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,333] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,334] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc10k.csv - Time 1
+555 - [2023-04-30 16:41:06,340] : DEBUG -> Program output: - Time 1
+555 - [2023-04-30 16:41:06,340] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,340] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,340] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,341] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc10k.csv - Time 2
+555 - [2023-04-30 16:41:06,347] : DEBUG -> Program output: - Time 2
+555 - [2023-04-30 16:41:06,347] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,348] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,348] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,348] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc10k.csv - Time 3
+555 - [2023-04-30 16:41:06,355] : DEBUG -> Program output: - Time 3
+555 - [2023-04-30 16:41:06,356] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,356] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,356] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,357] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc10k.csv - Time 4
+555 - [2023-04-30 16:41:06,364] : DEBUG -> Program output: - Time 4
+555 - [2023-04-30 16:41:06,365] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,365] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,365] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,365] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc10k.csv - Time 5
+555 - [2023-04-30 16:41:06,372] : DEBUG -> Program output: - Time 5
+555 - [2023-04-30 16:41:06,372] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,373] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,373] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,373] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc10k.csv - Time 6
+555 - [2023-04-30 16:41:06,380] : DEBUG -> Program output: - Time 6
+555 - [2023-04-30 16:41:06,380] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,380] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,380] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,381] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc10k.csv - Time 7
+555 - [2023-04-30 16:41:06,388] : DEBUG -> Program output: - Time 7
+555 - [2023-04-30 16:41:06,388] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,388] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,389] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,389] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc10k.csv - Time 8
+555 - [2023-04-30 16:41:06,395] : DEBUG -> Program output: - Time 8
+555 - [2023-04-30 16:41:06,395] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,395] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,396] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,396] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc10k.csv - Time 9
+555 - [2023-04-30 16:41:06,402] : DEBUG -> Program output: - Time 9
+555 - [2023-04-30 16:41:06,402] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,403] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,403] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,403] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc10k.csv - Time 10
+555 - [2023-04-30 16:41:06,410] : DEBUG -> Program output: - Time 10
+555 - [2023-04-30 16:41:06,410] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,410] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,410] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,411] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc10k.csv - Time 11
+555 - [2023-04-30 16:41:06,416] : DEBUG -> Program output: - Time 11
+555 - [2023-04-30 16:41:06,417] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,417] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,417] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,417] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc10k.csv - Time 12
+555 - [2023-04-30 16:41:06,424] : DEBUG -> Program output: - Time 12
+555 - [2023-04-30 16:41:06,424] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,424] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,425] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,426] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1k.csv - Time 0
+555 - [2023-04-30 16:41:06,432] : DEBUG -> Program output: - Time 0
+555 - [2023-04-30 16:41:06,433] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,433] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,433] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,433] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1k.csv - Time 1
+555 - [2023-04-30 16:41:06,440] : DEBUG -> Program output: - Time 1
+555 - [2023-04-30 16:41:06,440] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,441] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,441] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,441] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1k.csv - Time 2
+555 - [2023-04-30 16:41:06,447] : DEBUG -> Program output: - Time 2
+555 - [2023-04-30 16:41:06,447] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,447] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,448] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,448] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1k.csv - Time 3
+555 - [2023-04-30 16:41:06,454] : DEBUG -> Program output: - Time 3
+555 - [2023-04-30 16:41:06,455] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,455] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,455] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,456] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1k.csv - Time 4
+555 - [2023-04-30 16:41:06,462] : DEBUG -> Program output: - Time 4
+555 - [2023-04-30 16:41:06,463] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,463] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,463] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,463] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1k.csv - Time 5
+555 - [2023-04-30 16:41:06,470] : DEBUG -> Program output: - Time 5
+555 - [2023-04-30 16:41:06,470] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,471] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,471] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,472] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1k.csv - Time 6
+555 - [2023-04-30 16:41:06,479] : DEBUG -> Program output: - Time 6
+555 - [2023-04-30 16:41:06,479] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,479] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,480] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,480] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1k.csv - Time 7
+555 - [2023-04-30 16:41:06,486] : DEBUG -> Program output: - Time 7
+555 - [2023-04-30 16:41:06,487] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,487] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,487] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,488] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1k.csv - Time 8
+555 - [2023-04-30 16:41:06,494] : DEBUG -> Program output: - Time 8
+555 - [2023-04-30 16:41:06,494] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,495] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,495] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,495] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1k.csv - Time 9
+555 - [2023-04-30 16:41:06,501] : DEBUG -> Program output: - Time 9
+555 - [2023-04-30 16:41:06,502] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,502] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,502] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,503] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1k.csv - Time 10
+555 - [2023-04-30 16:41:06,509] : DEBUG -> Program output: - Time 10
+555 - [2023-04-30 16:41:06,509] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,509] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,510] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,510] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1k.csv - Time 11
+555 - [2023-04-30 16:41:06,516] : DEBUG -> Program output: - Time 11
+555 - [2023-04-30 16:41:06,516] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,516] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,517] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,517] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1k.csv - Time 12
+555 - [2023-04-30 16:41:06,523] : DEBUG -> Program output: - Time 12
+555 - [2023-04-30 16:41:06,523] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,524] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,524] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,526] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500k.csv - Time 0
+555 - [2023-04-30 16:41:06,531] : DEBUG -> Program output: - Time 0
+555 - [2023-04-30 16:41:06,532] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,532] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,532] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,532] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500k.csv - Time 1
+555 - [2023-04-30 16:41:06,539] : DEBUG -> Program output: - Time 1
+555 - [2023-04-30 16:41:06,539] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,539] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,540] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,540] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500k.csv - Time 2
+555 - [2023-04-30 16:41:06,546] : DEBUG -> Program output: - Time 2
+555 - [2023-04-30 16:41:06,546] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,546] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,546] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,547] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500k.csv - Time 3
+555 - [2023-04-30 16:41:06,553] : DEBUG -> Program output: - Time 3
+555 - [2023-04-30 16:41:06,553] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,553] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,554] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,554] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500k.csv - Time 4
+555 - [2023-04-30 16:41:06,560] : DEBUG -> Program output: - Time 4
+555 - [2023-04-30 16:41:06,560] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,561] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,561] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,561] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500k.csv - Time 5
+555 - [2023-04-30 16:41:06,567] : DEBUG -> Program output: - Time 5
+555 - [2023-04-30 16:41:06,567] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,568] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,568] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,568] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500k.csv - Time 6
+555 - [2023-04-30 16:41:06,574] : DEBUG -> Program output: - Time 6
+555 - [2023-04-30 16:41:06,574] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,575] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,575] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,575] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500k.csv - Time 7
+555 - [2023-04-30 16:41:06,581] : DEBUG -> Program output: - Time 7
+555 - [2023-04-30 16:41:06,581] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,582] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,582] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,582] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500k.csv - Time 8
+555 - [2023-04-30 16:41:06,588] : DEBUG -> Program output: - Time 8
+555 - [2023-04-30 16:41:06,588] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,589] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,589] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,589] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500k.csv - Time 9
+555 - [2023-04-30 16:41:06,595] : DEBUG -> Program output: - Time 9
+555 - [2023-04-30 16:41:06,596] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,596] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,596] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,597] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500k.csv - Time 10
+555 - [2023-04-30 16:41:06,603] : DEBUG -> Program output: - Time 10
+555 - [2023-04-30 16:41:06,604] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,604] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,604] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,604] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500k.csv - Time 11
+555 - [2023-04-30 16:41:06,611] : DEBUG -> Program output: - Time 11
+555 - [2023-04-30 16:41:06,611] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,612] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,612] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,612] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500k.csv - Time 12
+555 - [2023-04-30 16:41:06,619] : DEBUG -> Program output: - Time 12
+555 - [2023-04-30 16:41:06,619] : DEBUG -> ---------------------------
+555 - [2023-04-30 16:41:06,620] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000000 
+
+555 - [2023-04-30 16:41:06,620] : DEBUG -> ---------------------------
