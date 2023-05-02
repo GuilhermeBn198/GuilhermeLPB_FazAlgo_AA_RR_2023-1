@@ -30,8 +30,6 @@
 -   arquivo com 8000 entradas: 253.84731
 -   arquivo com 9000 entradas: 361.91553
 -   arquivo com 10000 entradas: 494.20585
--   arquivo com 30000 entradas:
--   arquivo com 50000 entradas:
 ## Resultados brutos:
 
 ### arquivo com 100 entradas:

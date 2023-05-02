@@ -1,1459 +1,767 @@
-285 - [2023-05-01 21:34:21,416] : DEBUG -> Experiment script executed
-285 - [2023-05-01 21:34:21,417] : DEBUG -> Listing input files to the program
-285 - [2023-05-01 21:34:21,420] : DEBUG -> Running the program with each input 13 times
-285 - [2023-05-01 21:34:21,422] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 0
-285 - [2023-05-01 21:34:21,437] : DEBUG -> Program output: - Time 0
-285 - [2023-05-01 21:34:21,437] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,438] : DEBUG -> QUANTIDADE DE ITEMS: 200
- Tempo de Execucao: ---> 0.004123 
-
-285 - [2023-05-01 21:34:21,438] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,438] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 1
-285 - [2023-05-01 21:34:21,450] : DEBUG -> Program output: - Time 1
-285 - [2023-05-01 21:34:21,450] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,450] : DEBUG -> QUANTIDADE DE ITEMS: 200
- Tempo de Execucao: ---> 0.004079 
-
-285 - [2023-05-01 21:34:21,450] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,451] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 2
-285 - [2023-05-01 21:34:21,464] : DEBUG -> Program output: - Time 2
-285 - [2023-05-01 21:34:21,465] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,465] : DEBUG -> QUANTIDADE DE ITEMS: 200
- Tempo de Execucao: ---> 0.004104 
-
-285 - [2023-05-01 21:34:21,465] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,465] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 3
-285 - [2023-05-01 21:34:21,477] : DEBUG -> Program output: - Time 3
-285 - [2023-05-01 21:34:21,477] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,477] : DEBUG -> QUANTIDADE DE ITEMS: 200
- Tempo de Execucao: ---> 0.004108 
-
-285 - [2023-05-01 21:34:21,478] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,478] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 4
-285 - [2023-05-01 21:34:21,491] : DEBUG -> Program output: - Time 4
-285 - [2023-05-01 21:34:21,492] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,492] : DEBUG -> QUANTIDADE DE ITEMS: 200
- Tempo de Execucao: ---> 0.004096 
-
-285 - [2023-05-01 21:34:21,492] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,492] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 5
-285 - [2023-05-01 21:34:21,504] : DEBUG -> Program output: - Time 5
-285 - [2023-05-01 21:34:21,504] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,505] : DEBUG -> QUANTIDADE DE ITEMS: 200
- Tempo de Execucao: ---> 0.004152 
-
-285 - [2023-05-01 21:34:21,505] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,505] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 6
-285 - [2023-05-01 21:34:21,520] : DEBUG -> Program output: - Time 6
-285 - [2023-05-01 21:34:21,520] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,521] : DEBUG -> QUANTIDADE DE ITEMS: 200
- Tempo de Execucao: ---> 0.004296 
-
-285 - [2023-05-01 21:34:21,521] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,521] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 7
-285 - [2023-05-01 21:34:21,535] : DEBUG -> Program output: - Time 7
-285 - [2023-05-01 21:34:21,535] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,535] : DEBUG -> QUANTIDADE DE ITEMS: 200
- Tempo de Execucao: ---> 0.004129 
-
-285 - [2023-05-01 21:34:21,536] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,536] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 8
-285 - [2023-05-01 21:34:21,548] : DEBUG -> Program output: - Time 8
-285 - [2023-05-01 21:34:21,548] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,548] : DEBUG -> QUANTIDADE DE ITEMS: 200
- Tempo de Execucao: ---> 0.004301 
-
-285 - [2023-05-01 21:34:21,549] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,549] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 9
-285 - [2023-05-01 21:34:21,561] : DEBUG -> Program output: - Time 9
-285 - [2023-05-01 21:34:21,561] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,561] : DEBUG -> QUANTIDADE DE ITEMS: 200
- Tempo de Execucao: ---> 0.004125 
-
-285 - [2023-05-01 21:34:21,562] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,562] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 10
-285 - [2023-05-01 21:34:21,573] : DEBUG -> Program output: - Time 10
-285 - [2023-05-01 21:34:21,573] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,573] : DEBUG -> QUANTIDADE DE ITEMS: 200
- Tempo de Execucao: ---> 0.004165 
-
-285 - [2023-05-01 21:34:21,574] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,574] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 11
-285 - [2023-05-01 21:34:21,586] : DEBUG -> Program output: - Time 11
-285 - [2023-05-01 21:34:21,587] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,587] : DEBUG -> QUANTIDADE DE ITEMS: 200
- Tempo de Execucao: ---> 0.004426 
-
-285 - [2023-05-01 21:34:21,587] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,587] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 12
-285 - [2023-05-01 21:34:21,600] : DEBUG -> Program output: - Time 12
-285 - [2023-05-01 21:34:21,600] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,600] : DEBUG -> QUANTIDADE DE ITEMS: 200
- Tempo de Execucao: ---> 0.004127 
-
-285 - [2023-05-01 21:34:21,600] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:21,603] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 0
-285 - [2023-05-01 21:34:25,628] : DEBUG -> Program output: - Time 0
-285 - [2023-05-01 21:34:25,629] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:25,629] : DEBUG -> QUANTIDADE DE ITEMS: 2000
- Tempo de Execucao: ---> 4.014524 
-
-285 - [2023-05-01 21:34:25,629] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:25,629] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 1
-285 - [2023-05-01 21:34:29,642] : DEBUG -> Program output: - Time 1
-285 - [2023-05-01 21:34:29,643] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:29,643] : DEBUG -> QUANTIDADE DE ITEMS: 2000
- Tempo de Execucao: ---> 4.002641 
-
-285 - [2023-05-01 21:34:29,643] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:29,644] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 2
-285 - [2023-05-01 21:34:33,651] : DEBUG -> Program output: - Time 2
-285 - [2023-05-01 21:34:33,651] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:33,651] : DEBUG -> QUANTIDADE DE ITEMS: 2000
- Tempo de Execucao: ---> 3.996979 
-
-285 - [2023-05-01 21:34:33,651] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:33,652] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 3
-285 - [2023-05-01 21:34:37,662] : DEBUG -> Program output: - Time 3
-285 - [2023-05-01 21:34:37,663] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:37,663] : DEBUG -> QUANTIDADE DE ITEMS: 2000
- Tempo de Execucao: ---> 4.000696 
-
-285 - [2023-05-01 21:34:37,663] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:37,664] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 4
-285 - [2023-05-01 21:34:41,678] : DEBUG -> Program output: - Time 4
-285 - [2023-05-01 21:34:41,678] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:41,678] : DEBUG -> QUANTIDADE DE ITEMS: 2000
- Tempo de Execucao: ---> 4.003719 
-
-285 - [2023-05-01 21:34:41,679] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:41,679] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 5
-285 - [2023-05-01 21:34:45,690] : DEBUG -> Program output: - Time 5
-285 - [2023-05-01 21:34:45,690] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:45,691] : DEBUG -> QUANTIDADE DE ITEMS: 2000
- Tempo de Execucao: ---> 4.000999 
-
-285 - [2023-05-01 21:34:45,691] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:45,691] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 6
-285 - [2023-05-01 21:34:49,691] : DEBUG -> Program output: - Time 6
-285 - [2023-05-01 21:34:49,691] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:49,692] : DEBUG -> QUANTIDADE DE ITEMS: 2000
- Tempo de Execucao: ---> 3.988748 
-
-285 - [2023-05-01 21:34:49,692] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:49,692] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 7
-285 - [2023-05-01 21:34:53,697] : DEBUG -> Program output: - Time 7
-285 - [2023-05-01 21:34:53,698] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:53,698] : DEBUG -> QUANTIDADE DE ITEMS: 2000
- Tempo de Execucao: ---> 3.994781 
-
-285 - [2023-05-01 21:34:53,698] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:53,698] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 8
-285 - [2023-05-01 21:34:57,717] : DEBUG -> Program output: - Time 8
-285 - [2023-05-01 21:34:57,717] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:57,717] : DEBUG -> QUANTIDADE DE ITEMS: 2000
- Tempo de Execucao: ---> 4.007455 
-
-285 - [2023-05-01 21:34:57,718] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:34:57,718] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 9
-285 - [2023-05-01 21:35:01,935] : DEBUG -> Program output: - Time 9
-285 - [2023-05-01 21:35:01,936] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:01,936] : DEBUG -> QUANTIDADE DE ITEMS: 2000
- Tempo de Execucao: ---> 4.206882 
-
-285 - [2023-05-01 21:35:01,937] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:01,937] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 10
-285 - [2023-05-01 21:35:05,960] : DEBUG -> Program output: - Time 10
-285 - [2023-05-01 21:35:05,961] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:05,961] : DEBUG -> QUANTIDADE DE ITEMS: 2000
- Tempo de Execucao: ---> 4.011279 
-
-285 - [2023-05-01 21:35:05,961] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:05,962] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 11
-285 - [2023-05-01 21:35:10,001] : DEBUG -> Program output: - Time 11
-285 - [2023-05-01 21:35:10,001] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:10,002] : DEBUG -> QUANTIDADE DE ITEMS: 2000
- Tempo de Execucao: ---> 4.027895 
-
-285 - [2023-05-01 21:35:10,002] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:10,002] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 12
-285 - [2023-05-01 21:35:14,019] : DEBUG -> Program output: - Time 12
-285 - [2023-05-01 21:35:14,019] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,020] : DEBUG -> QUANTIDADE DE ITEMS: 2000
- Tempo de Execucao: ---> 4.005978 
-
-285 - [2023-05-01 21:35:14,020] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,022] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 0
-285 - [2023-05-01 21:35:14,043] : DEBUG -> Program output: - Time 0
-285 - [2023-05-01 21:35:14,043] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,044] : DEBUG -> QUANTIDADE DE ITEMS: 300
- Tempo de Execucao: ---> 0.013886 
-
-285 - [2023-05-01 21:35:14,044] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,044] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 1
-285 - [2023-05-01 21:35:14,065] : DEBUG -> Program output: - Time 1
-285 - [2023-05-01 21:35:14,066] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,066] : DEBUG -> QUANTIDADE DE ITEMS: 300
- Tempo de Execucao: ---> 0.014147 
-
-285 - [2023-05-01 21:35:14,066] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,066] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 2
-285 - [2023-05-01 21:35:14,087] : DEBUG -> Program output: - Time 2
-285 - [2023-05-01 21:35:14,088] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,088] : DEBUG -> QUANTIDADE DE ITEMS: 300
- Tempo de Execucao: ---> 0.013913 
-
-285 - [2023-05-01 21:35:14,088] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,089] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 3
-285 - [2023-05-01 21:35:14,110] : DEBUG -> Program output: - Time 3
-285 - [2023-05-01 21:35:14,110] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,111] : DEBUG -> QUANTIDADE DE ITEMS: 300
- Tempo de Execucao: ---> 0.013936 
-
-285 - [2023-05-01 21:35:14,111] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,111] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 4
-285 - [2023-05-01 21:35:14,132] : DEBUG -> Program output: - Time 4
-285 - [2023-05-01 21:35:14,133] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,133] : DEBUG -> QUANTIDADE DE ITEMS: 300
- Tempo de Execucao: ---> 0.013949 
-
-285 - [2023-05-01 21:35:14,133] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,133] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 5
-285 - [2023-05-01 21:35:14,154] : DEBUG -> Program output: - Time 5
-285 - [2023-05-01 21:35:14,155] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,155] : DEBUG -> QUANTIDADE DE ITEMS: 300
- Tempo de Execucao: ---> 0.013932 
-
-285 - [2023-05-01 21:35:14,155] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,155] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 6
-285 - [2023-05-01 21:35:14,176] : DEBUG -> Program output: - Time 6
-285 - [2023-05-01 21:35:14,177] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,177] : DEBUG -> QUANTIDADE DE ITEMS: 300
- Tempo de Execucao: ---> 0.013879 
-
-285 - [2023-05-01 21:35:14,177] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,178] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 7
-285 - [2023-05-01 21:35:14,198] : DEBUG -> Program output: - Time 7
-285 - [2023-05-01 21:35:14,199] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,199] : DEBUG -> QUANTIDADE DE ITEMS: 300
- Tempo de Execucao: ---> 0.013918 
-
-285 - [2023-05-01 21:35:14,199] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,200] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 8
-285 - [2023-05-01 21:35:14,221] : DEBUG -> Program output: - Time 8
-285 - [2023-05-01 21:35:14,221] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,221] : DEBUG -> QUANTIDADE DE ITEMS: 300
- Tempo de Execucao: ---> 0.013997 
-
-285 - [2023-05-01 21:35:14,222] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,222] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 9
-285 - [2023-05-01 21:35:14,243] : DEBUG -> Program output: - Time 9
-285 - [2023-05-01 21:35:14,243] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,244] : DEBUG -> QUANTIDADE DE ITEMS: 300
- Tempo de Execucao: ---> 0.013950 
-
-285 - [2023-05-01 21:35:14,244] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,244] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 10
-285 - [2023-05-01 21:35:14,265] : DEBUG -> Program output: - Time 10
-285 - [2023-05-01 21:35:14,265] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,265] : DEBUG -> QUANTIDADE DE ITEMS: 300
- Tempo de Execucao: ---> 0.013805 
-
-285 - [2023-05-01 21:35:14,266] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,266] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 11
-285 - [2023-05-01 21:35:14,286] : DEBUG -> Program output: - Time 11
-285 - [2023-05-01 21:35:14,287] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,287] : DEBUG -> QUANTIDADE DE ITEMS: 300
- Tempo de Execucao: ---> 0.013800 
-
-285 - [2023-05-01 21:35:14,287] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,287] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 12
-285 - [2023-05-01 21:35:14,308] : DEBUG -> Program output: - Time 12
-285 - [2023-05-01 21:35:14,308] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,308] : DEBUG -> QUANTIDADE DE ITEMS: 300
- Tempo de Execucao: ---> 0.013747 
-
-285 - [2023-05-01 21:35:14,309] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:14,311] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 0
-285 - [2023-05-01 21:35:27,785] : DEBUG -> Program output: - Time 0
-285 - [2023-05-01 21:35:27,785] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:27,786] : DEBUG -> QUANTIDADE DE ITEMS: 3000
- Tempo de Execucao: ---> 13.461900 
-
-285 - [2023-05-01 21:35:27,786] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:27,786] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 1
-285 - [2023-05-01 21:35:41,274] : DEBUG -> Program output: - Time 1
-285 - [2023-05-01 21:35:41,274] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:41,275] : DEBUG -> QUANTIDADE DE ITEMS: 3000
- Tempo de Execucao: ---> 13.475332 
-
-285 - [2023-05-01 21:35:41,275] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:41,275] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 2
-285 - [2023-05-01 21:35:54,757] : DEBUG -> Program output: - Time 2
-285 - [2023-05-01 21:35:54,757] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:54,758] : DEBUG -> QUANTIDADE DE ITEMS: 3000
- Tempo de Execucao: ---> 13.469593 
-
-285 - [2023-05-01 21:35:54,758] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:35:54,758] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 3
-285 - [2023-05-01 21:36:08,238] : DEBUG -> Program output: - Time 3
-285 - [2023-05-01 21:36:08,238] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:36:08,238] : DEBUG -> QUANTIDADE DE ITEMS: 3000
- Tempo de Execucao: ---> 13.468017 
-
-285 - [2023-05-01 21:36:08,239] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:36:08,239] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 4
-285 - [2023-05-01 21:36:21,925] : DEBUG -> Program output: - Time 4
-285 - [2023-05-01 21:36:21,925] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:36:21,925] : DEBUG -> QUANTIDADE DE ITEMS: 3000
- Tempo de Execucao: ---> 13.673031 
-
-285 - [2023-05-01 21:36:21,925] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:36:21,926] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 5
-285 - [2023-05-01 21:36:35,404] : DEBUG -> Program output: - Time 5
-285 - [2023-05-01 21:36:35,405] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:36:35,405] : DEBUG -> QUANTIDADE DE ITEMS: 3000
- Tempo de Execucao: ---> 13.466366 
-
-285 - [2023-05-01 21:36:35,405] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:36:35,406] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 6
-285 - [2023-05-01 21:36:48,838] : DEBUG -> Program output: - Time 6
-285 - [2023-05-01 21:36:48,839] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:36:48,839] : DEBUG -> QUANTIDADE DE ITEMS: 3000
- Tempo de Execucao: ---> 13.420198 
-
-285 - [2023-05-01 21:36:48,839] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:36:48,839] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 7
-285 - [2023-05-01 21:37:02,324] : DEBUG -> Program output: - Time 7
-285 - [2023-05-01 21:37:02,324] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:37:02,324] : DEBUG -> QUANTIDADE DE ITEMS: 3000
- Tempo de Execucao: ---> 13.471547 
-
-285 - [2023-05-01 21:37:02,325] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:37:02,325] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 8
-285 - [2023-05-01 21:37:15,809] : DEBUG -> Program output: - Time 8
-285 - [2023-05-01 21:37:15,810] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:37:15,810] : DEBUG -> QUANTIDADE DE ITEMS: 3000
- Tempo de Execucao: ---> 13.471584 
-
-285 - [2023-05-01 21:37:15,810] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:37:15,811] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 9
-285 - [2023-05-01 21:37:29,300] : DEBUG -> Program output: - Time 9
-285 - [2023-05-01 21:37:29,300] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:37:29,301] : DEBUG -> QUANTIDADE DE ITEMS: 3000
- Tempo de Execucao: ---> 13.476690 
-
-285 - [2023-05-01 21:37:29,301] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:37:29,301] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 10
-285 - [2023-05-01 21:37:42,861] : DEBUG -> Program output: - Time 10
-285 - [2023-05-01 21:37:42,861] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:37:42,862] : DEBUG -> QUANTIDADE DE ITEMS: 3000
- Tempo de Execucao: ---> 13.547906 
-
-285 - [2023-05-01 21:37:42,862] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:37:42,862] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 11
-285 - [2023-05-01 21:37:56,479] : DEBUG -> Program output: - Time 11
-285 - [2023-05-01 21:37:56,479] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:37:56,480] : DEBUG -> QUANTIDADE DE ITEMS: 3000
- Tempo de Execucao: ---> 13.603399 
-
-285 - [2023-05-01 21:37:56,480] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:37:56,480] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 12
-285 - [2023-05-01 21:38:09,992] : DEBUG -> Program output: - Time 12
-285 - [2023-05-01 21:38:09,993] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:09,993] : DEBUG -> QUANTIDADE DE ITEMS: 3000
- Tempo de Execucao: ---> 13.498219 
-
-285 - [2023-05-01 21:38:09,993] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:09,995] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 0
-285 - [2023-05-01 21:38:10,035] : DEBUG -> Program output: - Time 0
-285 - [2023-05-01 21:38:10,036] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,036] : DEBUG -> QUANTIDADE DE ITEMS: 400
- Tempo de Execucao: ---> 0.032584 
-
-285 - [2023-05-01 21:38:10,036] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,036] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 1
-285 - [2023-05-01 21:38:10,076] : DEBUG -> Program output: - Time 1
-285 - [2023-05-01 21:38:10,076] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,077] : DEBUG -> QUANTIDADE DE ITEMS: 400
- Tempo de Execucao: ---> 0.032489 
-
-285 - [2023-05-01 21:38:10,077] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,077] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 2
-285 - [2023-05-01 21:38:10,118] : DEBUG -> Program output: - Time 2
-285 - [2023-05-01 21:38:10,118] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,119] : DEBUG -> QUANTIDADE DE ITEMS: 400
- Tempo de Execucao: ---> 0.033314 
-
-285 - [2023-05-01 21:38:10,119] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,119] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 3
-285 - [2023-05-01 21:38:10,158] : DEBUG -> Program output: - Time 3
-285 - [2023-05-01 21:38:10,159] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,159] : DEBUG -> QUANTIDADE DE ITEMS: 400
- Tempo de Execucao: ---> 0.032390 
-
-285 - [2023-05-01 21:38:10,159] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,159] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 4
-285 - [2023-05-01 21:38:10,199] : DEBUG -> Program output: - Time 4
-285 - [2023-05-01 21:38:10,199] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,200] : DEBUG -> QUANTIDADE DE ITEMS: 400
- Tempo de Execucao: ---> 0.032357 
-
-285 - [2023-05-01 21:38:10,200] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,200] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 5
-285 - [2023-05-01 21:38:10,240] : DEBUG -> Program output: - Time 5
-285 - [2023-05-01 21:38:10,240] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,240] : DEBUG -> QUANTIDADE DE ITEMS: 400
- Tempo de Execucao: ---> 0.032409 
-
-285 - [2023-05-01 21:38:10,241] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,241] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 6
-285 - [2023-05-01 21:38:10,280] : DEBUG -> Program output: - Time 6
-285 - [2023-05-01 21:38:10,281] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,281] : DEBUG -> QUANTIDADE DE ITEMS: 400
- Tempo de Execucao: ---> 0.032376 
-
-285 - [2023-05-01 21:38:10,281] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,282] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 7
-285 - [2023-05-01 21:38:10,322] : DEBUG -> Program output: - Time 7
-285 - [2023-05-01 21:38:10,322] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,322] : DEBUG -> QUANTIDADE DE ITEMS: 400
- Tempo de Execucao: ---> 0.032659 
-
-285 - [2023-05-01 21:38:10,323] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,323] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 8
-285 - [2023-05-01 21:38:10,362] : DEBUG -> Program output: - Time 8
-285 - [2023-05-01 21:38:10,363] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,363] : DEBUG -> QUANTIDADE DE ITEMS: 400
- Tempo de Execucao: ---> 0.032758 
-
-285 - [2023-05-01 21:38:10,363] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,363] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 9
-285 - [2023-05-01 21:38:10,402] : DEBUG -> Program output: - Time 9
-285 - [2023-05-01 21:38:10,403] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,403] : DEBUG -> QUANTIDADE DE ITEMS: 400
- Tempo de Execucao: ---> 0.032379 
-
-285 - [2023-05-01 21:38:10,403] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,403] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 10
-285 - [2023-05-01 21:38:10,443] : DEBUG -> Program output: - Time 10
-285 - [2023-05-01 21:38:10,443] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,444] : DEBUG -> QUANTIDADE DE ITEMS: 400
- Tempo de Execucao: ---> 0.032914 
-
-285 - [2023-05-01 21:38:10,444] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,444] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 11
-285 - [2023-05-01 21:38:10,484] : DEBUG -> Program output: - Time 11
-285 - [2023-05-01 21:38:10,485] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,485] : DEBUG -> QUANTIDADE DE ITEMS: 400
- Tempo de Execucao: ---> 0.032627 
-
-285 - [2023-05-01 21:38:10,485] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,486] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 12
-285 - [2023-05-01 21:38:10,525] : DEBUG -> Program output: - Time 12
-285 - [2023-05-01 21:38:10,526] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,526] : DEBUG -> QUANTIDADE DE ITEMS: 400
- Tempo de Execucao: ---> 0.032698 
-
-285 - [2023-05-01 21:38:10,526] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:10,528] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 0
-285 - [2023-05-01 21:38:42,375] : DEBUG -> Program output: - Time 0
-285 - [2023-05-01 21:38:42,376] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:42,376] : DEBUG -> QUANTIDADE DE ITEMS: 4000
- Tempo de Execucao: ---> 31.833189 
-
-285 - [2023-05-01 21:38:42,376] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:38:42,376] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 1
-285 - [2023-05-01 21:39:14,269] : DEBUG -> Program output: - Time 1
-285 - [2023-05-01 21:39:14,270] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:39:14,270] : DEBUG -> QUANTIDADE DE ITEMS: 4000
- Tempo de Execucao: ---> 31.877810 
-
-285 - [2023-05-01 21:39:14,270] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:39:14,271] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 2
-285 - [2023-05-01 21:39:46,208] : DEBUG -> Program output: - Time 2
-285 - [2023-05-01 21:39:46,209] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:39:46,209] : DEBUG -> QUANTIDADE DE ITEMS: 4000
- Tempo de Execucao: ---> 31.923353 
-
-285 - [2023-05-01 21:39:46,209] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:39:46,209] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 3
-285 - [2023-05-01 21:40:18,095] : DEBUG -> Program output: - Time 3
-285 - [2023-05-01 21:40:18,096] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:40:18,096] : DEBUG -> QUANTIDADE DE ITEMS: 4000
- Tempo de Execucao: ---> 31.871653 
-
-285 - [2023-05-01 21:40:18,096] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:40:18,096] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 4
-285 - [2023-05-01 21:40:50,333] : DEBUG -> Program output: - Time 4
-285 - [2023-05-01 21:40:50,334] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:40:50,334] : DEBUG -> QUANTIDADE DE ITEMS: 4000
- Tempo de Execucao: ---> 32.222971 
-
-285 - [2023-05-01 21:40:50,334] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:40:50,335] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 5
-285 - [2023-05-01 21:41:22,386] : DEBUG -> Program output: - Time 5
-285 - [2023-05-01 21:41:22,386] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:41:22,387] : DEBUG -> QUANTIDADE DE ITEMS: 4000
- Tempo de Execucao: ---> 32.037024 
-
-285 - [2023-05-01 21:41:22,387] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:41:22,387] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 6
-285 - [2023-05-01 21:41:54,208] : DEBUG -> Program output: - Time 6
-285 - [2023-05-01 21:41:54,209] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:41:54,209] : DEBUG -> QUANTIDADE DE ITEMS: 4000
- Tempo de Execucao: ---> 31.806522 
-
-285 - [2023-05-01 21:41:54,210] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:41:54,210] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 7
-285 - [2023-05-01 21:42:26,468] : DEBUG -> Program output: - Time 7
-285 - [2023-05-01 21:42:26,469] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:42:26,469] : DEBUG -> QUANTIDADE DE ITEMS: 4000
- Tempo de Execucao: ---> 32.240049 
-
-285 - [2023-05-01 21:42:26,469] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:42:26,470] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 8
-285 - [2023-05-01 21:42:58,355] : DEBUG -> Program output: - Time 8
-285 - [2023-05-01 21:42:58,355] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:42:58,356] : DEBUG -> QUANTIDADE DE ITEMS: 4000
- Tempo de Execucao: ---> 31.871489 
-
-285 - [2023-05-01 21:42:58,356] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:42:58,356] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 9
-285 - [2023-05-01 21:43:30,183] : DEBUG -> Program output: - Time 9
-285 - [2023-05-01 21:43:30,183] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:43:30,183] : DEBUG -> QUANTIDADE DE ITEMS: 4000
- Tempo de Execucao: ---> 31.812610 
-
-285 - [2023-05-01 21:43:30,184] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:43:30,184] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 10
-285 - [2023-05-01 21:44:01,971] : DEBUG -> Program output: - Time 10
-285 - [2023-05-01 21:44:01,971] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:44:01,972] : DEBUG -> QUANTIDADE DE ITEMS: 4000
- Tempo de Execucao: ---> 31.773416 
-
-285 - [2023-05-01 21:44:01,972] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:44:01,972] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 11
-285 - [2023-05-01 21:44:33,734] : DEBUG -> Program output: - Time 11
-285 - [2023-05-01 21:44:33,734] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:44:33,734] : DEBUG -> QUANTIDADE DE ITEMS: 4000
- Tempo de Execucao: ---> 31.746587 
-
-285 - [2023-05-01 21:44:33,735] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:44:33,735] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 12
-285 - [2023-05-01 21:45:05,535] : DEBUG -> Program output: - Time 12
-285 - [2023-05-01 21:45:05,536] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:05,536] : DEBUG -> QUANTIDADE DE ITEMS: 4000
- Tempo de Execucao: ---> 31.781656 
-
-285 - [2023-05-01 21:45:05,537] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:05,539] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 0
-285 - [2023-05-01 21:45:05,610] : DEBUG -> Program output: - Time 0
-285 - [2023-05-01 21:45:05,610] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:05,610] : DEBUG -> QUANTIDADE DE ITEMS: 500
- Tempo de Execucao: ---> 0.063236 
-
-285 - [2023-05-01 21:45:05,611] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:05,611] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 1
-285 - [2023-05-01 21:45:05,681] : DEBUG -> Program output: - Time 1
-285 - [2023-05-01 21:45:05,682] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:05,682] : DEBUG -> QUANTIDADE DE ITEMS: 500
- Tempo de Execucao: ---> 0.062819 
-
-285 - [2023-05-01 21:45:05,682] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:05,682] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 2
-285 - [2023-05-01 21:45:05,754] : DEBUG -> Program output: - Time 2
-285 - [2023-05-01 21:45:05,754] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:05,754] : DEBUG -> QUANTIDADE DE ITEMS: 500
- Tempo de Execucao: ---> 0.063187 
-
-285 - [2023-05-01 21:45:05,755] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:05,755] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 3
-285 - [2023-05-01 21:45:05,826] : DEBUG -> Program output: - Time 3
-285 - [2023-05-01 21:45:05,827] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:05,827] : DEBUG -> QUANTIDADE DE ITEMS: 500
- Tempo de Execucao: ---> 0.063379 
-
-285 - [2023-05-01 21:45:05,827] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:05,828] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 4
-285 - [2023-05-01 21:45:05,898] : DEBUG -> Program output: - Time 4
-285 - [2023-05-01 21:45:05,898] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:05,899] : DEBUG -> QUANTIDADE DE ITEMS: 500
- Tempo de Execucao: ---> 0.062921 
-
-285 - [2023-05-01 21:45:05,899] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:05,899] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 5
-285 - [2023-05-01 21:45:05,970] : DEBUG -> Program output: - Time 5
-285 - [2023-05-01 21:45:05,970] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:05,971] : DEBUG -> QUANTIDADE DE ITEMS: 500
- Tempo de Execucao: ---> 0.063194 
-
-285 - [2023-05-01 21:45:05,971] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:05,971] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 6
-285 - [2023-05-01 21:45:06,042] : DEBUG -> Program output: - Time 6
-285 - [2023-05-01 21:45:06,042] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:06,043] : DEBUG -> QUANTIDADE DE ITEMS: 500
- Tempo de Execucao: ---> 0.062849 
-
-285 - [2023-05-01 21:45:06,043] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:06,043] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 7
-285 - [2023-05-01 21:45:06,113] : DEBUG -> Program output: - Time 7
-285 - [2023-05-01 21:45:06,114] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:06,114] : DEBUG -> QUANTIDADE DE ITEMS: 500
- Tempo de Execucao: ---> 0.062886 
-
-285 - [2023-05-01 21:45:06,114] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:06,114] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 8
-285 - [2023-05-01 21:45:06,186] : DEBUG -> Program output: - Time 8
-285 - [2023-05-01 21:45:06,186] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:06,186] : DEBUG -> QUANTIDADE DE ITEMS: 500
- Tempo de Execucao: ---> 0.063528 
-
-285 - [2023-05-01 21:45:06,186] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:06,187] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 9
-285 - [2023-05-01 21:45:06,257] : DEBUG -> Program output: - Time 9
-285 - [2023-05-01 21:45:06,258] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:06,258] : DEBUG -> QUANTIDADE DE ITEMS: 500
- Tempo de Execucao: ---> 0.063295 
-
-285 - [2023-05-01 21:45:06,259] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:06,259] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 10
-285 - [2023-05-01 21:45:06,329] : DEBUG -> Program output: - Time 10
-285 - [2023-05-01 21:45:06,329] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:06,330] : DEBUG -> QUANTIDADE DE ITEMS: 500
- Tempo de Execucao: ---> 0.063029 
-
-285 - [2023-05-01 21:45:06,330] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:06,330] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 11
-285 - [2023-05-01 21:45:06,401] : DEBUG -> Program output: - Time 11
-285 - [2023-05-01 21:45:06,401] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:06,402] : DEBUG -> QUANTIDADE DE ITEMS: 500
- Tempo de Execucao: ---> 0.063400 
-
-285 - [2023-05-01 21:45:06,402] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:06,402] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 12
-285 - [2023-05-01 21:45:06,472] : DEBUG -> Program output: - Time 12
-285 - [2023-05-01 21:45:06,473] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:06,473] : DEBUG -> QUANTIDADE DE ITEMS: 500
- Tempo de Execucao: ---> 0.063060 
-
-285 - [2023-05-01 21:45:06,473] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:45:06,475] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc5000.csv - Time 0
-285 - [2023-05-01 21:46:08,458] : DEBUG -> Program output: - Time 0
-285 - [2023-05-01 21:46:08,458] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:46:08,459] : DEBUG -> QUANTIDADE DE ITEMS: 5000
- Tempo de Execucao: ---> 61.967479 
-
-285 - [2023-05-01 21:46:08,459] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:46:08,459] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc5000.csv - Time 1
-285 - [2023-05-01 21:47:10,467] : DEBUG -> Program output: - Time 1
-285 - [2023-05-01 21:47:10,467] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:47:10,468] : DEBUG -> QUANTIDADE DE ITEMS: 5000
- Tempo de Execucao: ---> 61.991508 
-
-285 - [2023-05-01 21:47:10,468] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:47:10,468] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc5000.csv - Time 2
-285 - [2023-05-01 21:48:12,551] : DEBUG -> Program output: - Time 2
-285 - [2023-05-01 21:48:12,552] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:48:12,552] : DEBUG -> QUANTIDADE DE ITEMS: 5000
- Tempo de Execucao: ---> 62.065425 
-
-285 - [2023-05-01 21:48:12,552] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:48:12,553] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc5000.csv - Time 3
-285 - [2023-05-01 21:49:14,549] : DEBUG -> Program output: - Time 3
-285 - [2023-05-01 21:49:14,550] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:49:14,550] : DEBUG -> QUANTIDADE DE ITEMS: 5000
- Tempo de Execucao: ---> 61.979387 
-
-285 - [2023-05-01 21:49:14,551] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:49:14,551] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc5000.csv - Time 4
-285 - [2023-05-01 21:50:16,492] : DEBUG -> Program output: - Time 4
-285 - [2023-05-01 21:50:16,492] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:50:16,492] : DEBUG -> QUANTIDADE DE ITEMS: 5000
- Tempo de Execucao: ---> 61.923723 
-
-285 - [2023-05-01 21:50:16,492] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:50:16,493] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc5000.csv - Time 5
-285 - [2023-05-01 21:51:18,466] : DEBUG -> Program output: - Time 5
-285 - [2023-05-01 21:51:18,466] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:51:18,466] : DEBUG -> QUANTIDADE DE ITEMS: 5000
- Tempo de Execucao: ---> 61.956648 
-
-285 - [2023-05-01 21:51:18,467] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:51:18,467] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc5000.csv - Time 6
-285 - [2023-05-01 21:52:20,415] : DEBUG -> Program output: - Time 6
-285 - [2023-05-01 21:52:20,415] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:52:20,416] : DEBUG -> QUANTIDADE DE ITEMS: 5000
- Tempo de Execucao: ---> 61.931591 
-
-285 - [2023-05-01 21:52:20,416] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:52:20,416] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc5000.csv - Time 7
-285 - [2023-05-01 21:53:22,373] : DEBUG -> Program output: - Time 7
-285 - [2023-05-01 21:53:22,373] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:53:22,374] : DEBUG -> QUANTIDADE DE ITEMS: 5000
- Tempo de Execucao: ---> 61.940470 
-
-285 - [2023-05-01 21:53:22,374] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:53:22,374] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc5000.csv - Time 8
-285 - [2023-05-01 21:54:24,344] : DEBUG -> Program output: - Time 8
-285 - [2023-05-01 21:54:24,344] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:54:24,345] : DEBUG -> QUANTIDADE DE ITEMS: 5000
- Tempo de Execucao: ---> 61.953264 
-
-285 - [2023-05-01 21:54:24,345] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:54:24,345] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc5000.csv - Time 9
-285 - [2023-05-01 21:55:26,314] : DEBUG -> Program output: - Time 9
-285 - [2023-05-01 21:55:26,315] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:55:26,315] : DEBUG -> QUANTIDADE DE ITEMS: 5000
- Tempo de Execucao: ---> 61.952378 
-
-285 - [2023-05-01 21:55:26,316] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:55:26,316] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc5000.csv - Time 10
-285 - [2023-05-01 21:56:28,270] : DEBUG -> Program output: - Time 10
-285 - [2023-05-01 21:56:28,270] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:56:28,270] : DEBUG -> QUANTIDADE DE ITEMS: 5000
- Tempo de Execucao: ---> 61.937564 
-
-285 - [2023-05-01 21:56:28,270] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:56:28,271] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc5000.csv - Time 11
-285 - [2023-05-01 21:57:30,731] : DEBUG -> Program output: - Time 11
-285 - [2023-05-01 21:57:30,732] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:57:30,732] : DEBUG -> QUANTIDADE DE ITEMS: 5000
- Tempo de Execucao: ---> 62.444200 
-
-285 - [2023-05-01 21:57:30,732] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:57:30,732] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc5000.csv - Time 12
-285 - [2023-05-01 21:58:32,657] : DEBUG -> Program output: - Time 12
-285 - [2023-05-01 21:58:32,657] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:32,658] : DEBUG -> QUANTIDADE DE ITEMS: 5000
- Tempo de Execucao: ---> 61.907882 
-
-285 - [2023-05-01 21:58:32,658] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:32,660] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc600.csv - Time 0
-285 - [2023-05-01 21:58:32,776] : DEBUG -> Program output: - Time 0
-285 - [2023-05-01 21:58:32,777] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:32,777] : DEBUG -> QUANTIDADE DE ITEMS: 600
- Tempo de Execucao: ---> 0.108445 
-
-285 - [2023-05-01 21:58:32,777] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:32,777] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc600.csv - Time 1
-285 - [2023-05-01 21:58:32,894] : DEBUG -> Program output: - Time 1
-285 - [2023-05-01 21:58:32,894] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:32,895] : DEBUG -> QUANTIDADE DE ITEMS: 600
- Tempo de Execucao: ---> 0.108450 
-
-285 - [2023-05-01 21:58:32,895] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:32,895] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc600.csv - Time 2
-285 - [2023-05-01 21:58:33,012] : DEBUG -> Program output: - Time 2
-285 - [2023-05-01 21:58:33,012] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:33,013] : DEBUG -> QUANTIDADE DE ITEMS: 600
- Tempo de Execucao: ---> 0.108784 
-
-285 - [2023-05-01 21:58:33,013] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:33,013] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc600.csv - Time 3
-285 - [2023-05-01 21:58:33,129] : DEBUG -> Program output: - Time 3
-285 - [2023-05-01 21:58:33,129] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:33,130] : DEBUG -> QUANTIDADE DE ITEMS: 600
- Tempo de Execucao: ---> 0.108673 
-
-285 - [2023-05-01 21:58:33,130] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:33,130] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc600.csv - Time 4
-285 - [2023-05-01 21:58:33,247] : DEBUG -> Program output: - Time 4
-285 - [2023-05-01 21:58:33,247] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:33,248] : DEBUG -> QUANTIDADE DE ITEMS: 600
- Tempo de Execucao: ---> 0.108706 
-
-285 - [2023-05-01 21:58:33,248] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:33,248] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc600.csv - Time 5
-285 - [2023-05-01 21:58:33,364] : DEBUG -> Program output: - Time 5
-285 - [2023-05-01 21:58:33,364] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:33,365] : DEBUG -> QUANTIDADE DE ITEMS: 600
- Tempo de Execucao: ---> 0.108608 
-
-285 - [2023-05-01 21:58:33,365] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:33,365] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc600.csv - Time 6
-285 - [2023-05-01 21:58:33,482] : DEBUG -> Program output: - Time 6
-285 - [2023-05-01 21:58:33,483] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:33,483] : DEBUG -> QUANTIDADE DE ITEMS: 600
- Tempo de Execucao: ---> 0.108764 
-
-285 - [2023-05-01 21:58:33,483] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:33,484] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc600.csv - Time 7
-285 - [2023-05-01 21:58:33,600] : DEBUG -> Program output: - Time 7
-285 - [2023-05-01 21:58:33,600] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:33,601] : DEBUG -> QUANTIDADE DE ITEMS: 600
- Tempo de Execucao: ---> 0.109320 
-
-285 - [2023-05-01 21:58:33,601] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:33,601] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc600.csv - Time 8
-285 - [2023-05-01 21:58:33,717] : DEBUG -> Program output: - Time 8
-285 - [2023-05-01 21:58:33,718] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:33,718] : DEBUG -> QUANTIDADE DE ITEMS: 600
- Tempo de Execucao: ---> 0.108746 
-
-285 - [2023-05-01 21:58:33,718] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:33,719] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc600.csv - Time 9
-285 - [2023-05-01 21:58:33,835] : DEBUG -> Program output: - Time 9
-285 - [2023-05-01 21:58:33,835] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:33,835] : DEBUG -> QUANTIDADE DE ITEMS: 600
- Tempo de Execucao: ---> 0.108920 
-
-285 - [2023-05-01 21:58:33,836] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:33,836] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc600.csv - Time 10
-285 - [2023-05-01 21:58:33,951] : DEBUG -> Program output: - Time 10
-285 - [2023-05-01 21:58:33,952] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:33,952] : DEBUG -> QUANTIDADE DE ITEMS: 600
- Tempo de Execucao: ---> 0.108410 
-
-285 - [2023-05-01 21:58:33,952] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:33,952] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc600.csv - Time 11
-285 - [2023-05-01 21:58:34,069] : DEBUG -> Program output: - Time 11
-285 - [2023-05-01 21:58:34,070] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:34,070] : DEBUG -> QUANTIDADE DE ITEMS: 600
- Tempo de Execucao: ---> 0.109487 
-
-285 - [2023-05-01 21:58:34,070] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:34,070] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc600.csv - Time 12
-285 - [2023-05-01 21:58:34,187] : DEBUG -> Program output: - Time 12
-285 - [2023-05-01 21:58:34,187] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:34,188] : DEBUG -> QUANTIDADE DE ITEMS: 600
- Tempo de Execucao: ---> 0.109524 
-
-285 - [2023-05-01 21:58:34,188] : DEBUG -> ---------------------------
-285 - [2023-05-01 21:58:34,190] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc6000.csv - Time 0
-285 - [2023-05-01 22:00:21,163] : DEBUG -> Program output: - Time 0
-285 - [2023-05-01 22:00:21,163] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:00:21,163] : DEBUG -> QUANTIDADE DE ITEMS: 6000
- Tempo de Execucao: ---> 106.955525 
-
-285 - [2023-05-01 22:00:21,164] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:00:21,164] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc6000.csv - Time 1
-285 - [2023-05-01 22:02:08,083] : DEBUG -> Program output: - Time 1
-285 - [2023-05-01 22:02:08,084] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:02:08,084] : DEBUG -> QUANTIDADE DE ITEMS: 6000
- Tempo de Execucao: ---> 106.899658 
-
-285 - [2023-05-01 22:02:08,084] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:02:08,085] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc6000.csv - Time 2
-285 - [2023-05-01 22:03:56,244] : DEBUG -> Program output: - Time 2
-285 - [2023-05-01 22:03:56,244] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:03:56,245] : DEBUG -> QUANTIDADE DE ITEMS: 6000
- Tempo de Execucao: ---> 108.138209 
-
-285 - [2023-05-01 22:03:56,245] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:03:56,245] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc6000.csv - Time 3
-285 - [2023-05-01 22:05:43,553] : DEBUG -> Program output: - Time 3
-285 - [2023-05-01 22:05:43,553] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:05:43,553] : DEBUG -> QUANTIDADE DE ITEMS: 6000
- Tempo de Execucao: ---> 107.286398 
-
-285 - [2023-05-01 22:05:43,554] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:05:43,554] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc6000.csv - Time 4
-285 - [2023-05-01 22:07:30,662] : DEBUG -> Program output: - Time 4
-285 - [2023-05-01 22:07:30,662] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:07:30,662] : DEBUG -> QUANTIDADE DE ITEMS: 6000
- Tempo de Execucao: ---> 107.087866 
-
-285 - [2023-05-01 22:07:30,663] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:07:30,663] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc6000.csv - Time 5
-285 - [2023-05-01 22:09:17,709] : DEBUG -> Program output: - Time 5
-285 - [2023-05-01 22:09:17,709] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:09:17,710] : DEBUG -> QUANTIDADE DE ITEMS: 6000
- Tempo de Execucao: ---> 107.025919 
-
-285 - [2023-05-01 22:09:17,710] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:09:17,710] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc6000.csv - Time 6
-285 - [2023-05-01 22:11:04,712] : DEBUG -> Program output: - Time 6
-285 - [2023-05-01 22:11:04,712] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:11:04,712] : DEBUG -> QUANTIDADE DE ITEMS: 6000
- Tempo de Execucao: ---> 106.981244 
-
-285 - [2023-05-01 22:11:04,713] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:11:04,713] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc6000.csv - Time 7
-285 - [2023-05-01 22:12:51,730] : DEBUG -> Program output: - Time 7
-285 - [2023-05-01 22:12:51,731] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:12:51,731] : DEBUG -> QUANTIDADE DE ITEMS: 6000
- Tempo de Execucao: ---> 106.997427 
-
-285 - [2023-05-01 22:12:51,731] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:12:51,732] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc6000.csv - Time 8
-285 - [2023-05-01 22:14:38,797] : DEBUG -> Program output: - Time 8
-285 - [2023-05-01 22:14:38,797] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:14:38,797] : DEBUG -> QUANTIDADE DE ITEMS: 6000
- Tempo de Execucao: ---> 107.045900 
-
-285 - [2023-05-01 22:14:38,798] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:14:38,798] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc6000.csv - Time 9
-285 - [2023-05-01 22:16:25,979] : DEBUG -> Program output: - Time 9
-285 - [2023-05-01 22:16:25,980] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:16:25,980] : DEBUG -> QUANTIDADE DE ITEMS: 6000
- Tempo de Execucao: ---> 107.161053 
-
-285 - [2023-05-01 22:16:25,980] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:16:25,981] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc6000.csv - Time 10
-285 - [2023-05-01 22:18:13,314] : DEBUG -> Program output: - Time 10
-285 - [2023-05-01 22:18:13,315] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:18:13,315] : DEBUG -> QUANTIDADE DE ITEMS: 6000
- Tempo de Execucao: ---> 107.314387 
-
-285 - [2023-05-01 22:18:13,315] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:18:13,316] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc6000.csv - Time 11
-285 - [2023-05-01 22:20:00,627] : DEBUG -> Program output: - Time 11
-285 - [2023-05-01 22:20:00,627] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:20:00,627] : DEBUG -> QUANTIDADE DE ITEMS: 6000
- Tempo de Execucao: ---> 107.291945 
-
-285 - [2023-05-01 22:20:00,628] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:20:00,628] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc6000.csv - Time 12
-285 - [2023-05-01 22:21:47,987] : DEBUG -> Program output: - Time 12
-285 - [2023-05-01 22:21:47,988] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:47,988] : DEBUG -> QUANTIDADE DE ITEMS: 6000
- Tempo de Execucao: ---> 107.339462 
-
-285 - [2023-05-01 22:21:47,988] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:47,991] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc700.csv - Time 0
-285 - [2023-05-01 22:21:48,172] : DEBUG -> Program output: - Time 0
-285 - [2023-05-01 22:21:48,172] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:48,172] : DEBUG -> QUANTIDADE DE ITEMS: 700
- Tempo de Execucao: ---> 0.172928 
-
-285 - [2023-05-01 22:21:48,172] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:48,173] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc700.csv - Time 1
-285 - [2023-05-01 22:21:48,354] : DEBUG -> Program output: - Time 1
-285 - [2023-05-01 22:21:48,354] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:48,354] : DEBUG -> QUANTIDADE DE ITEMS: 700
- Tempo de Execucao: ---> 0.172608 
-
-285 - [2023-05-01 22:21:48,354] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:48,355] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc700.csv - Time 2
-285 - [2023-05-01 22:21:48,535] : DEBUG -> Program output: - Time 2
-285 - [2023-05-01 22:21:48,535] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:48,536] : DEBUG -> QUANTIDADE DE ITEMS: 700
- Tempo de Execucao: ---> 0.172529 
-
-285 - [2023-05-01 22:21:48,536] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:48,536] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc700.csv - Time 3
-285 - [2023-05-01 22:21:48,717] : DEBUG -> Program output: - Time 3
-285 - [2023-05-01 22:21:48,717] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:48,717] : DEBUG -> QUANTIDADE DE ITEMS: 700
- Tempo de Execucao: ---> 0.172263 
-
-285 - [2023-05-01 22:21:48,718] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:48,718] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc700.csv - Time 4
-285 - [2023-05-01 22:21:48,898] : DEBUG -> Program output: - Time 4
-285 - [2023-05-01 22:21:48,899] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:48,899] : DEBUG -> QUANTIDADE DE ITEMS: 700
- Tempo de Execucao: ---> 0.172440 
-
-285 - [2023-05-01 22:21:48,899] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:48,900] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc700.csv - Time 5
-285 - [2023-05-01 22:21:49,080] : DEBUG -> Program output: - Time 5
-285 - [2023-05-01 22:21:49,081] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:49,081] : DEBUG -> QUANTIDADE DE ITEMS: 700
- Tempo de Execucao: ---> 0.172207 
-
-285 - [2023-05-01 22:21:49,081] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:49,082] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc700.csv - Time 6
-285 - [2023-05-01 22:21:49,264] : DEBUG -> Program output: - Time 6
-285 - [2023-05-01 22:21:49,264] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:49,265] : DEBUG -> QUANTIDADE DE ITEMS: 700
- Tempo de Execucao: ---> 0.173416 
-
-285 - [2023-05-01 22:21:49,265] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:49,265] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc700.csv - Time 7
-285 - [2023-05-01 22:21:49,448] : DEBUG -> Program output: - Time 7
-285 - [2023-05-01 22:21:49,448] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:49,449] : DEBUG -> QUANTIDADE DE ITEMS: 700
- Tempo de Execucao: ---> 0.174198 
-
-285 - [2023-05-01 22:21:49,449] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:49,449] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc700.csv - Time 8
-285 - [2023-05-01 22:21:49,630] : DEBUG -> Program output: - Time 8
-285 - [2023-05-01 22:21:49,630] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:49,631] : DEBUG -> QUANTIDADE DE ITEMS: 700
- Tempo de Execucao: ---> 0.172242 
-
-285 - [2023-05-01 22:21:49,631] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:49,631] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc700.csv - Time 9
-285 - [2023-05-01 22:21:49,811] : DEBUG -> Program output: - Time 9
-285 - [2023-05-01 22:21:49,812] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:49,812] : DEBUG -> QUANTIDADE DE ITEMS: 700
- Tempo de Execucao: ---> 0.172182 
-
-285 - [2023-05-01 22:21:49,812] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:49,812] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc700.csv - Time 10
-285 - [2023-05-01 22:21:49,993] : DEBUG -> Program output: - Time 10
-285 - [2023-05-01 22:21:49,993] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:49,994] : DEBUG -> QUANTIDADE DE ITEMS: 700
- Tempo de Execucao: ---> 0.172631 
-
-285 - [2023-05-01 22:21:49,994] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:49,994] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc700.csv - Time 11
-285 - [2023-05-01 22:21:50,174] : DEBUG -> Program output: - Time 11
-285 - [2023-05-01 22:21:50,175] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:50,175] : DEBUG -> QUANTIDADE DE ITEMS: 700
- Tempo de Execucao: ---> 0.172166 
-
-285 - [2023-05-01 22:21:50,175] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:50,175] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc700.csv - Time 12
-285 - [2023-05-01 22:21:50,357] : DEBUG -> Program output: - Time 12
-285 - [2023-05-01 22:21:50,357] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:50,358] : DEBUG -> QUANTIDADE DE ITEMS: 700
- Tempo de Execucao: ---> 0.173614 
-
-285 - [2023-05-01 22:21:50,358] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:21:50,360] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc7000.csv - Time 0
-285 - [2023-05-01 22:24:41,047] : DEBUG -> Program output: - Time 0
-285 - [2023-05-01 22:24:41,047] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:24:41,048] : DEBUG -> QUANTIDADE DE ITEMS: 7000
- Tempo de Execucao: ---> 170.664131 
-
-285 - [2023-05-01 22:24:41,048] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:24:41,048] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc7000.csv - Time 1
-285 - [2023-05-01 22:27:32,840] : DEBUG -> Program output: - Time 1
-285 - [2023-05-01 22:27:32,841] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:27:32,841] : DEBUG -> QUANTIDADE DE ITEMS: 7000
- Tempo de Execucao: ---> 171.768397 
-
-285 - [2023-05-01 22:27:32,841] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:27:32,841] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc7000.csv - Time 2
-285 - [2023-05-01 22:30:23,828] : DEBUG -> Program output: - Time 2
-285 - [2023-05-01 22:30:23,828] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:30:23,829] : DEBUG -> QUANTIDADE DE ITEMS: 7000
- Tempo de Execucao: ---> 170.964017 
-
-285 - [2023-05-01 22:30:23,829] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:30:23,829] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc7000.csv - Time 3
-285 - [2023-05-01 22:33:14,373] : DEBUG -> Program output: - Time 3
-285 - [2023-05-01 22:33:14,374] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:33:14,374] : DEBUG -> QUANTIDADE DE ITEMS: 7000
- Tempo de Execucao: ---> 170.522098 
-
-285 - [2023-05-01 22:33:14,374] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:33:14,374] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc7000.csv - Time 4
-285 - [2023-05-01 22:36:04,515] : DEBUG -> Program output: - Time 4
-285 - [2023-05-01 22:36:04,515] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:36:04,515] : DEBUG -> QUANTIDADE DE ITEMS: 7000
- Tempo de Execucao: ---> 170.117992 
-
-285 - [2023-05-01 22:36:04,516] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:36:04,516] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc7000.csv - Time 5
-285 - [2023-05-01 22:38:55,419] : DEBUG -> Program output: - Time 5
-285 - [2023-05-01 22:38:55,420] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:38:55,420] : DEBUG -> QUANTIDADE DE ITEMS: 7000
- Tempo de Execucao: ---> 170.880209 
-
-285 - [2023-05-01 22:38:55,421] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:38:55,421] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc7000.csv - Time 6
-285 - [2023-05-01 22:41:46,011] : DEBUG -> Program output: - Time 6
-285 - [2023-05-01 22:41:46,012] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:41:46,012] : DEBUG -> QUANTIDADE DE ITEMS: 7000
- Tempo de Execucao: ---> 170.567731 
-
-285 - [2023-05-01 22:41:46,012] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:41:46,012] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc7000.csv - Time 7
-285 - [2023-05-01 22:44:37,064] : DEBUG -> Program output: - Time 7
-285 - [2023-05-01 22:44:37,064] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:44:37,064] : DEBUG -> QUANTIDADE DE ITEMS: 7000
- Tempo de Execucao: ---> 171.029312 
-
-285 - [2023-05-01 22:44:37,065] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:44:37,065] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc7000.csv - Time 8
-285 - [2023-05-01 22:47:27,175] : DEBUG -> Program output: - Time 8
-285 - [2023-05-01 22:47:27,176] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:47:27,176] : DEBUG -> QUANTIDADE DE ITEMS: 7000
- Tempo de Execucao: ---> 170.088236 
-
-285 - [2023-05-01 22:47:27,176] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:47:27,176] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc7000.csv - Time 9
-285 - [2023-05-01 22:50:16,845] : DEBUG -> Program output: - Time 9
-285 - [2023-05-01 22:50:16,845] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:50:16,846] : DEBUG -> QUANTIDADE DE ITEMS: 7000
- Tempo de Execucao: ---> 169.647543 
-
-285 - [2023-05-01 22:50:16,846] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:50:16,846] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc7000.csv - Time 10
-285 - [2023-05-01 22:53:06,588] : DEBUG -> Program output: - Time 10
-285 - [2023-05-01 22:53:06,588] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:53:06,589] : DEBUG -> QUANTIDADE DE ITEMS: 7000
- Tempo de Execucao: ---> 169.719992 
-
-285 - [2023-05-01 22:53:06,589] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:53:06,589] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc7000.csv - Time 11
-285 - [2023-05-01 22:55:56,988] : DEBUG -> Program output: - Time 11
-285 - [2023-05-01 22:55:56,989] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:55:56,989] : DEBUG -> QUANTIDADE DE ITEMS: 7000
- Tempo de Execucao: ---> 170.374117 
-
-285 - [2023-05-01 22:55:56,989] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:55:56,990] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc7000.csv - Time 12
-285 - [2023-05-01 22:58:46,730] : DEBUG -> Program output: - Time 12
-285 - [2023-05-01 22:58:46,731] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:46,731] : DEBUG -> QUANTIDADE DE ITEMS: 7000
- Tempo de Execucao: ---> 169.717600 
-
-285 - [2023-05-01 22:58:46,731] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:46,734] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc800.csv - Time 0
-285 - [2023-05-01 22:58:47,001] : DEBUG -> Program output: - Time 0
-285 - [2023-05-01 22:58:47,001] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:47,001] : DEBUG -> QUANTIDADE DE ITEMS: 800
- Tempo de Execucao: ---> 0.256748 
-
-285 - [2023-05-01 22:58:47,002] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:47,002] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc800.csv - Time 1
-285 - [2023-05-01 22:58:47,268] : DEBUG -> Program output: - Time 1
-285 - [2023-05-01 22:58:47,268] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:47,269] : DEBUG -> QUANTIDADE DE ITEMS: 800
- Tempo de Execucao: ---> 0.257317 
-
-285 - [2023-05-01 22:58:47,269] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:47,269] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc800.csv - Time 2
-285 - [2023-05-01 22:58:47,534] : DEBUG -> Program output: - Time 2
-285 - [2023-05-01 22:58:47,535] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:47,535] : DEBUG -> QUANTIDADE DE ITEMS: 800
- Tempo de Execucao: ---> 0.256791 
-
-285 - [2023-05-01 22:58:47,535] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:47,535] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc800.csv - Time 3
-285 - [2023-05-01 22:58:47,802] : DEBUG -> Program output: - Time 3
-285 - [2023-05-01 22:58:47,802] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:47,802] : DEBUG -> QUANTIDADE DE ITEMS: 800
- Tempo de Execucao: ---> 0.257016 
-
-285 - [2023-05-01 22:58:47,803] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:47,803] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc800.csv - Time 4
-285 - [2023-05-01 22:58:48,068] : DEBUG -> Program output: - Time 4
-285 - [2023-05-01 22:58:48,069] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:48,069] : DEBUG -> QUANTIDADE DE ITEMS: 800
- Tempo de Execucao: ---> 0.256408 
-
-285 - [2023-05-01 22:58:48,069] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:48,070] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc800.csv - Time 5
-285 - [2023-05-01 22:58:48,335] : DEBUG -> Program output: - Time 5
-285 - [2023-05-01 22:58:48,335] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:48,336] : DEBUG -> QUANTIDADE DE ITEMS: 800
- Tempo de Execucao: ---> 0.256289 
-
-285 - [2023-05-01 22:58:48,336] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:48,336] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc800.csv - Time 6
-285 - [2023-05-01 22:58:48,601] : DEBUG -> Program output: - Time 6
-285 - [2023-05-01 22:58:48,602] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:48,602] : DEBUG -> QUANTIDADE DE ITEMS: 800
- Tempo de Execucao: ---> 0.257049 
-
-285 - [2023-05-01 22:58:48,602] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:48,603] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc800.csv - Time 7
-285 - [2023-05-01 22:58:48,868] : DEBUG -> Program output: - Time 7
-285 - [2023-05-01 22:58:48,868] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:48,869] : DEBUG -> QUANTIDADE DE ITEMS: 800
- Tempo de Execucao: ---> 0.257004 
-
-285 - [2023-05-01 22:58:48,869] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:48,869] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc800.csv - Time 8
-285 - [2023-05-01 22:58:49,134] : DEBUG -> Program output: - Time 8
-285 - [2023-05-01 22:58:49,135] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:49,135] : DEBUG -> QUANTIDADE DE ITEMS: 800
- Tempo de Execucao: ---> 0.256941 
-
-285 - [2023-05-01 22:58:49,135] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:49,136] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc800.csv - Time 9
-285 - [2023-05-01 22:58:49,403] : DEBUG -> Program output: - Time 9
-285 - [2023-05-01 22:58:49,403] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:49,403] : DEBUG -> QUANTIDADE DE ITEMS: 800
- Tempo de Execucao: ---> 0.258152 
-
-285 - [2023-05-01 22:58:49,403] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:49,404] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc800.csv - Time 10
-285 - [2023-05-01 22:58:49,670] : DEBUG -> Program output: - Time 10
-285 - [2023-05-01 22:58:49,670] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:49,670] : DEBUG -> QUANTIDADE DE ITEMS: 800
- Tempo de Execucao: ---> 0.257721 
-
-285 - [2023-05-01 22:58:49,671] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:49,671] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc800.csv - Time 11
-285 - [2023-05-01 22:58:49,936] : DEBUG -> Program output: - Time 11
-285 - [2023-05-01 22:58:49,936] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:49,937] : DEBUG -> QUANTIDADE DE ITEMS: 800
- Tempo de Execucao: ---> 0.256759 
-
-285 - [2023-05-01 22:58:49,937] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:49,937] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc800.csv - Time 12
-285 - [2023-05-01 22:58:50,202] : DEBUG -> Program output: - Time 12
-285 - [2023-05-01 22:58:50,202] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:50,202] : DEBUG -> QUANTIDADE DE ITEMS: 800
- Tempo de Execucao: ---> 0.256974 
-
-285 - [2023-05-01 22:58:50,203] : DEBUG -> ---------------------------
-285 - [2023-05-01 22:58:50,205] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc8000.csv - Time 0
-285 - [2023-05-01 23:03:04,634] : DEBUG -> Program output: - Time 0
-285 - [2023-05-01 23:03:04,634] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:03:04,635] : DEBUG -> QUANTIDADE DE ITEMS: 8000
- Tempo de Execucao: ---> 254.405349 
-
-285 - [2023-05-01 23:03:04,635] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:03:04,635] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc8000.csv - Time 1
-285 - [2023-05-01 23:07:18,927] : DEBUG -> Program output: - Time 1
-285 - [2023-05-01 23:07:18,928] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:07:18,928] : DEBUG -> QUANTIDADE DE ITEMS: 8000
- Tempo de Execucao: ---> 254.268579 
-
-285 - [2023-05-01 23:07:18,928] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:07:18,929] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc8000.csv - Time 2
-285 - [2023-05-01 23:11:33,021] : DEBUG -> Program output: - Time 2
-285 - [2023-05-01 23:11:33,021] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:11:33,021] : DEBUG -> QUANTIDADE DE ITEMS: 8000
- Tempo de Execucao: ---> 254.068312 
-
-285 - [2023-05-01 23:11:33,022] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:11:33,022] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc8000.csv - Time 3
-285 - [2023-05-01 23:15:47,283] : DEBUG -> Program output: - Time 3
-285 - [2023-05-01 23:15:47,284] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:15:47,284] : DEBUG -> QUANTIDADE DE ITEMS: 8000
- Tempo de Execucao: ---> 254.233197 
-
-285 - [2023-05-01 23:15:47,284] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:15:47,285] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc8000.csv - Time 4
-285 - [2023-05-01 23:20:00,819] : DEBUG -> Program output: - Time 4
-285 - [2023-05-01 23:20:00,820] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:20:00,820] : DEBUG -> QUANTIDADE DE ITEMS: 8000
- Tempo de Execucao: ---> 253.511484 
-
-285 - [2023-05-01 23:20:00,820] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:20:00,821] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc8000.csv - Time 5
-285 - [2023-05-01 23:24:14,320] : DEBUG -> Program output: - Time 5
-285 - [2023-05-01 23:24:14,320] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:24:14,321] : DEBUG -> QUANTIDADE DE ITEMS: 8000
- Tempo de Execucao: ---> 253.475216 
-
-285 - [2023-05-01 23:24:14,321] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:24:14,321] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc8000.csv - Time 6
-285 - [2023-05-01 23:28:28,365] : DEBUG -> Program output: - Time 6
-285 - [2023-05-01 23:28:28,365] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:28:28,366] : DEBUG -> QUANTIDADE DE ITEMS: 8000
- Tempo de Execucao: ---> 254.018049 
-
-285 - [2023-05-01 23:28:28,366] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:28:28,366] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc8000.csv - Time 7
-285 - [2023-05-01 23:32:41,952] : DEBUG -> Program output: - Time 7
-285 - [2023-05-01 23:32:41,952] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:32:41,952] : DEBUG -> QUANTIDADE DE ITEMS: 8000
- Tempo de Execucao: ---> 253.562072 
-
-285 - [2023-05-01 23:32:41,953] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:32:41,953] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc8000.csv - Time 8
-285 - [2023-05-01 23:36:55,397] : DEBUG -> Program output: - Time 8
-285 - [2023-05-01 23:36:55,398] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:36:55,398] : DEBUG -> QUANTIDADE DE ITEMS: 8000
- Tempo de Execucao: ---> 253.420689 
-
-285 - [2023-05-01 23:36:55,398] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:36:55,399] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc8000.csv - Time 9
-285 - [2023-05-01 23:41:08,794] : DEBUG -> Program output: - Time 9
-285 - [2023-05-01 23:41:08,794] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:41:08,794] : DEBUG -> QUANTIDADE DE ITEMS: 8000
- Tempo de Execucao: ---> 253.360162 
-
-285 - [2023-05-01 23:41:08,795] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:41:08,795] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc8000.csv - Time 10
-285 - [2023-05-01 23:45:22,690] : DEBUG -> Program output: - Time 10
-285 - [2023-05-01 23:45:22,690] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:45:22,690] : DEBUG -> QUANTIDADE DE ITEMS: 8000
- Tempo de Execucao: ---> 253.869556 
-
-285 - [2023-05-01 23:45:22,690] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:45:22,691] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc8000.csv - Time 11
-285 - [2023-05-01 23:49:36,700] : DEBUG -> Program output: - Time 11
-285 - [2023-05-01 23:49:36,700] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:49:36,701] : DEBUG -> QUANTIDADE DE ITEMS: 8000
- Tempo de Execucao: ---> 253.985292 
-
-285 - [2023-05-01 23:49:36,701] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:49:36,701] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc8000.csv - Time 12
-285 - [2023-05-01 23:53:50,563] : DEBUG -> Program output: - Time 12
-285 - [2023-05-01 23:53:50,563] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:50,564] : DEBUG -> QUANTIDADE DE ITEMS: 8000
- Tempo de Execucao: ---> 253.837200 
-
-285 - [2023-05-01 23:53:50,564] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:50,567] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc900.csv - Time 0
-285 - [2023-05-01 23:53:50,947] : DEBUG -> Program output: - Time 0
-285 - [2023-05-01 23:53:50,948] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:50,948] : DEBUG -> QUANTIDADE DE ITEMS: 900
- Tempo de Execucao: ---> 0.367326 
-
-285 - [2023-05-01 23:53:50,949] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:50,949] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc900.csv - Time 1
-285 - [2023-05-01 23:53:51,325] : DEBUG -> Program output: - Time 1
-285 - [2023-05-01 23:53:51,325] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:51,325] : DEBUG -> QUANTIDADE DE ITEMS: 900
- Tempo de Execucao: ---> 0.366422 
-
-285 - [2023-05-01 23:53:51,325] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:51,326] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc900.csv - Time 2
-285 - [2023-05-01 23:53:51,702] : DEBUG -> Program output: - Time 2
-285 - [2023-05-01 23:53:51,703] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:51,703] : DEBUG -> QUANTIDADE DE ITEMS: 900
- Tempo de Execucao: ---> 0.367692 
-
-285 - [2023-05-01 23:53:51,703] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:51,703] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc900.csv - Time 3
-285 - [2023-05-01 23:53:52,078] : DEBUG -> Program output: - Time 3
-285 - [2023-05-01 23:53:52,079] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:52,079] : DEBUG -> QUANTIDADE DE ITEMS: 900
- Tempo de Execucao: ---> 0.365969 
-
-285 - [2023-05-01 23:53:52,079] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:52,080] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc900.csv - Time 4
-285 - [2023-05-01 23:53:52,455] : DEBUG -> Program output: - Time 4
-285 - [2023-05-01 23:53:52,455] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:52,455] : DEBUG -> QUANTIDADE DE ITEMS: 900
- Tempo de Execucao: ---> 0.365716 
-
-285 - [2023-05-01 23:53:52,456] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:52,456] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc900.csv - Time 5
-285 - [2023-05-01 23:53:52,832] : DEBUG -> Program output: - Time 5
-285 - [2023-05-01 23:53:52,833] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:52,833] : DEBUG -> QUANTIDADE DE ITEMS: 900
- Tempo de Execucao: ---> 0.368026 
-
-285 - [2023-05-01 23:53:52,833] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:52,833] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc900.csv - Time 6
-285 - [2023-05-01 23:53:53,210] : DEBUG -> Program output: - Time 6
-285 - [2023-05-01 23:53:53,210] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:53,210] : DEBUG -> QUANTIDADE DE ITEMS: 900
- Tempo de Execucao: ---> 0.367468 
-
-285 - [2023-05-01 23:53:53,211] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:53,211] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc900.csv - Time 7
-285 - [2023-05-01 23:53:53,588] : DEBUG -> Program output: - Time 7
-285 - [2023-05-01 23:53:53,589] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:53,589] : DEBUG -> QUANTIDADE DE ITEMS: 900
- Tempo de Execucao: ---> 0.368762 
-
-285 - [2023-05-01 23:53:53,589] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:53,589] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc900.csv - Time 8
-285 - [2023-05-01 23:53:53,965] : DEBUG -> Program output: - Time 8
-285 - [2023-05-01 23:53:53,965] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:53,965] : DEBUG -> QUANTIDADE DE ITEMS: 900
- Tempo de Execucao: ---> 0.366899 
-
-285 - [2023-05-01 23:53:53,966] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:53,966] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc900.csv - Time 9
-285 - [2023-05-01 23:53:54,338] : DEBUG -> Program output: - Time 9
-285 - [2023-05-01 23:53:54,339] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:54,339] : DEBUG -> QUANTIDADE DE ITEMS: 900
- Tempo de Execucao: ---> 0.364111 
-
-285 - [2023-05-01 23:53:54,339] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:54,340] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc900.csv - Time 10
-285 - [2023-05-01 23:53:54,713] : DEBUG -> Program output: - Time 10
-285 - [2023-05-01 23:53:54,714] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:54,714] : DEBUG -> QUANTIDADE DE ITEMS: 900
- Tempo de Execucao: ---> 0.365558 
-
-285 - [2023-05-01 23:53:54,715] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:54,715] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc900.csv - Time 11
-285 - [2023-05-01 23:53:55,088] : DEBUG -> Program output: - Time 11
-285 - [2023-05-01 23:53:55,088] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:55,088] : DEBUG -> QUANTIDADE DE ITEMS: 900
- Tempo de Execucao: ---> 0.364725 
-
-285 - [2023-05-01 23:53:55,089] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:55,089] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc900.csv - Time 12
-285 - [2023-05-01 23:53:55,462] : DEBUG -> Program output: - Time 12
-285 - [2023-05-01 23:53:55,463] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:55,463] : DEBUG -> QUANTIDADE DE ITEMS: 900
- Tempo de Execucao: ---> 0.365218 
-
-285 - [2023-05-01 23:53:55,463] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:53:55,465] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc9000.csv - Time 0
-285 - [2023-05-01 23:59:56,657] : DEBUG -> Program output: - Time 0
-285 - [2023-05-01 23:59:56,657] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:59:56,657] : DEBUG -> QUANTIDADE DE ITEMS: 9000
- Tempo de Execucao: ---> 361.160074 
-
-285 - [2023-05-01 23:59:56,658] : DEBUG -> ---------------------------
-285 - [2023-05-01 23:59:56,658] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc9000.csv - Time 1
-285 - [2023-05-02 00:05:58,109] : DEBUG -> Program output: - Time 1
-285 - [2023-05-02 00:05:58,109] : DEBUG -> ---------------------------
-285 - [2023-05-02 00:05:58,110] : DEBUG -> QUANTIDADE DE ITEMS: 9000
- Tempo de Execucao: ---> 361.425082 
-
-285 - [2023-05-02 00:05:58,110] : DEBUG -> ---------------------------
-285 - [2023-05-02 00:05:58,110] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc9000.csv - Time 2
-285 - [2023-05-02 00:12:00,352] : DEBUG -> Program output: - Time 2
-285 - [2023-05-02 00:12:00,352] : DEBUG -> ---------------------------
-285 - [2023-05-02 00:12:00,353] : DEBUG -> QUANTIDADE DE ITEMS: 9000
- Tempo de Execucao: ---> 362.215282 
-
-285 - [2023-05-02 00:12:00,353] : DEBUG -> ---------------------------
-285 - [2023-05-02 00:12:00,353] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc9000.csv - Time 3
-285 - [2023-05-02 00:18:02,321] : DEBUG -> Program output: - Time 3
-285 - [2023-05-02 00:18:02,322] : DEBUG -> ---------------------------
-285 - [2023-05-02 00:18:02,322] : DEBUG -> QUANTIDADE DE ITEMS: 9000
- Tempo de Execucao: ---> 361.930138 
-
-285 - [2023-05-02 00:18:02,323] : DEBUG -> ---------------------------
-285 - [2023-05-02 00:18:02,323] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc9000.csv - Time 4
-285 - [2023-05-02 00:24:03,152] : DEBUG -> Program output: - Time 4
-285 - [2023-05-02 00:24:03,152] : DEBUG -> ---------------------------
-285 - [2023-05-02 00:24:03,153] : DEBUG -> QUANTIDADE DE ITEMS: 9000
- Tempo de Execucao: ---> 360.801029 
-
-285 - [2023-05-02 00:24:03,153] : DEBUG -> ---------------------------
-285 - [2023-05-02 00:24:03,153] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc9000.csv - Time 5
-285 - [2023-05-02 00:30:04,179] : DEBUG -> Program output: - Time 5
-285 - [2023-05-02 00:30:04,180] : DEBUG -> ---------------------------
-285 - [2023-05-02 00:30:04,180] : DEBUG -> QUANTIDADE DE ITEMS: 9000
- Tempo de Execucao: ---> 361.000371 
-
-285 - [2023-05-02 00:30:04,180] : DEBUG -> ---------------------------
-285 - [2023-05-02 00:30:04,180] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc9000.csv - Time 6
-285 - [2023-05-02 00:36:06,100] : DEBUG -> Program output: - Time 6
-285 - [2023-05-02 00:36:06,101] : DEBUG -> ---------------------------
-285 - [2023-05-02 00:36:06,101] : DEBUG -> QUANTIDADE DE ITEMS: 9000
- Tempo de Execucao: ---> 361.893220 
-
-285 - [2023-05-02 00:36:06,101] : DEBUG -> ---------------------------
-285 - [2023-05-02 00:36:06,102] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc9000.csv - Time 7
-285 - [2023-05-02 00:42:08,673] : DEBUG -> Program output: - Time 7
-285 - [2023-05-02 00:42:08,674] : DEBUG -> ---------------------------
-285 - [2023-05-02 00:42:08,674] : DEBUG -> QUANTIDADE DE ITEMS: 9000
- Tempo de Execucao: ---> 362.543665 
-
-285 - [2023-05-02 00:42:08,674] : DEBUG -> ---------------------------
-285 - [2023-05-02 00:42:08,675] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc9000.csv - Time 8
-285 - [2023-05-02 00:48:10,394] : DEBUG -> Program output: - Time 8
-285 - [2023-05-02 00:48:10,395] : DEBUG -> ---------------------------
-285 - [2023-05-02 00:48:10,395] : DEBUG -> QUANTIDADE DE ITEMS: 9000
- Tempo de Execucao: ---> 361.689277 
-
-285 - [2023-05-02 00:48:10,395] : DEBUG -> ---------------------------
-285 - [2023-05-02 00:48:10,396] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc9000.csv - Time 9
-285 - [2023-05-02 00:54:12,222] : DEBUG -> Program output: - Time 9
-285 - [2023-05-02 00:54:12,223] : DEBUG -> ---------------------------
-285 - [2023-05-02 00:54:12,223] : DEBUG -> QUANTIDADE DE ITEMS: 9000
- Tempo de Execucao: ---> 361.800115 
-
-285 - [2023-05-02 00:54:12,223] : DEBUG -> ---------------------------
-285 - [2023-05-02 00:54:12,224] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc9000.csv - Time 10
-285 - [2023-05-02 01:00:15,176] : DEBUG -> Program output: - Time 10
-285 - [2023-05-02 01:00:15,177] : DEBUG -> ---------------------------
-285 - [2023-05-02 01:00:15,177] : DEBUG -> QUANTIDADE DE ITEMS: 9000
- Tempo de Execucao: ---> 362.924904 
-
-285 - [2023-05-02 01:00:15,177] : DEBUG -> ---------------------------
-285 - [2023-05-02 01:00:15,178] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc9000.csv - Time 11
-285 - [2023-05-02 01:06:17,229] : DEBUG -> Program output: - Time 11
-285 - [2023-05-02 01:06:17,230] : DEBUG -> ---------------------------
-285 - [2023-05-02 01:06:17,230] : DEBUG -> QUANTIDADE DE ITEMS: 9000
- Tempo de Execucao: ---> 362.025310 
-
-285 - [2023-05-02 01:06:17,230] : DEBUG -> ---------------------------
-285 - [2023-05-02 01:06:17,230] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc9000.csv - Time 12
-285 - [2023-05-02 01:12:20,751] : DEBUG -> Program output: - Time 12
-285 - [2023-05-02 01:12:20,751] : DEBUG -> ---------------------------
-285 - [2023-05-02 01:12:20,752] : DEBUG -> QUANTIDADE DE ITEMS: 9000
- Tempo de Execucao: ---> 363.493479 
-
-285 - [2023-05-02 01:12:20,752] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:05,041] : DEBUG -> Experiment script executed
+81 - [2023-05-02 09:24:05,042] : DEBUG -> Listing input files to the program
+81 - [2023-05-02 09:24:05,046] : DEBUG -> Running the program with each input 13 times
+81 - [2023-05-02 09:24:05,049] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1000.csv - Time 0
+81 - [2023-05-02 09:24:05,582] : DEBUG -> Program output: - Time 0
+81 - [2023-05-02 09:24:05,583] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:05,583] : DEBUG -> QUANTIDADE DE ITEMS: 1000
+ Tempo de Execucao: ---> 0.512650 
+
+81 - [2023-05-02 09:24:05,584] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:05,584] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1000.csv - Time 1
+81 - [2023-05-02 09:24:06,108] : DEBUG -> Program output: - Time 1
+81 - [2023-05-02 09:24:06,108] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:06,109] : DEBUG -> QUANTIDADE DE ITEMS: 1000
+ Tempo de Execucao: ---> 0.512065 
+
+81 - [2023-05-02 09:24:06,109] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:06,109] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1000.csv - Time 2
+81 - [2023-05-02 09:24:06,633] : DEBUG -> Program output: - Time 2
+81 - [2023-05-02 09:24:06,633] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:06,633] : DEBUG -> QUANTIDADE DE ITEMS: 1000
+ Tempo de Execucao: ---> 0.513732 
+
+81 - [2023-05-02 09:24:06,634] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:06,634] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1000.csv - Time 3
+81 - [2023-05-02 09:24:07,159] : DEBUG -> Program output: - Time 3
+81 - [2023-05-02 09:24:07,160] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:07,160] : DEBUG -> QUANTIDADE DE ITEMS: 1000
+ Tempo de Execucao: ---> 0.514807 
+
+81 - [2023-05-02 09:24:07,160] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:07,161] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1000.csv - Time 4
+81 - [2023-05-02 09:24:07,694] : DEBUG -> Program output: - Time 4
+81 - [2023-05-02 09:24:07,695] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:07,696] : DEBUG -> QUANTIDADE DE ITEMS: 1000
+ Tempo de Execucao: ---> 0.522519 
+
+81 - [2023-05-02 09:24:07,696] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:07,697] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1000.csv - Time 5
+81 - [2023-05-02 09:24:08,230] : DEBUG -> Program output: - Time 5
+81 - [2023-05-02 09:24:08,231] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:08,231] : DEBUG -> QUANTIDADE DE ITEMS: 1000
+ Tempo de Execucao: ---> 0.518668 
+
+81 - [2023-05-02 09:24:08,232] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:08,232] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1000.csv - Time 6
+81 - [2023-05-02 09:24:08,764] : DEBUG -> Program output: - Time 6
+81 - [2023-05-02 09:24:08,765] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:08,765] : DEBUG -> QUANTIDADE DE ITEMS: 1000
+ Tempo de Execucao: ---> 0.519930 
+
+81 - [2023-05-02 09:24:08,766] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:08,766] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1000.csv - Time 7
+81 - [2023-05-02 09:24:09,295] : DEBUG -> Program output: - Time 7
+81 - [2023-05-02 09:24:09,296] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:09,296] : DEBUG -> QUANTIDADE DE ITEMS: 1000
+ Tempo de Execucao: ---> 0.517692 
+
+81 - [2023-05-02 09:24:09,297] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:09,297] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1000.csv - Time 8
+81 - [2023-05-02 09:24:09,834] : DEBUG -> Program output: - Time 8
+81 - [2023-05-02 09:24:09,835] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:09,836] : DEBUG -> QUANTIDADE DE ITEMS: 1000
+ Tempo de Execucao: ---> 0.524368 
+
+81 - [2023-05-02 09:24:09,836] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:09,837] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1000.csv - Time 9
+81 - [2023-05-02 09:24:10,377] : DEBUG -> Program output: - Time 9
+81 - [2023-05-02 09:24:10,377] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:10,378] : DEBUG -> QUANTIDADE DE ITEMS: 1000
+ Tempo de Execucao: ---> 0.523503 
+
+81 - [2023-05-02 09:24:10,378] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:10,378] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1000.csv - Time 10
+81 - [2023-05-02 09:24:10,906] : DEBUG -> Program output: - Time 10
+81 - [2023-05-02 09:24:10,906] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:10,907] : DEBUG -> QUANTIDADE DE ITEMS: 1000
+ Tempo de Execucao: ---> 0.516297 
+
+81 - [2023-05-02 09:24:10,907] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:10,907] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1000.csv - Time 11
+81 - [2023-05-02 09:24:11,434] : DEBUG -> Program output: - Time 11
+81 - [2023-05-02 09:24:11,434] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:11,435] : DEBUG -> QUANTIDADE DE ITEMS: 1000
+ Tempo de Execucao: ---> 0.517280 
+
+81 - [2023-05-02 09:24:11,435] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:11,436] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc1000.csv - Time 12
+81 - [2023-05-02 09:24:11,961] : DEBUG -> Program output: - Time 12
+81 - [2023-05-02 09:24:11,962] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:11,962] : DEBUG -> QUANTIDADE DE ITEMS: 1000
+ Tempo de Execucao: ---> 0.513378 
+
+81 - [2023-05-02 09:24:11,962] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:11,965] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 0
+81 - [2023-05-02 09:24:11,978] : DEBUG -> Program output: - Time 0
+81 - [2023-05-02 09:24:11,978] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:11,979] : DEBUG -> QUANTIDADE DE ITEMS: 200
+ Tempo de Execucao: ---> 0.004158 
+
+81 - [2023-05-02 09:24:11,979] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:11,979] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 1
+81 - [2023-05-02 09:24:11,994] : DEBUG -> Program output: - Time 1
+81 - [2023-05-02 09:24:11,995] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:11,995] : DEBUG -> QUANTIDADE DE ITEMS: 200
+ Tempo de Execucao: ---> 0.004347 
+
+81 - [2023-05-02 09:24:11,996] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:11,996] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 2
+81 - [2023-05-02 09:24:12,008] : DEBUG -> Program output: - Time 2
+81 - [2023-05-02 09:24:12,008] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,009] : DEBUG -> QUANTIDADE DE ITEMS: 200
+ Tempo de Execucao: ---> 0.004181 
+
+81 - [2023-05-02 09:24:12,009] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,009] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 3
+81 - [2023-05-02 09:24:12,024] : DEBUG -> Program output: - Time 3
+81 - [2023-05-02 09:24:12,025] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,025] : DEBUG -> QUANTIDADE DE ITEMS: 200
+ Tempo de Execucao: ---> 0.004249 
+
+81 - [2023-05-02 09:24:12,026] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,026] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 4
+81 - [2023-05-02 09:24:12,038] : DEBUG -> Program output: - Time 4
+81 - [2023-05-02 09:24:12,039] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,039] : DEBUG -> QUANTIDADE DE ITEMS: 200
+ Tempo de Execucao: ---> 0.004193 
+
+81 - [2023-05-02 09:24:12,039] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,040] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 5
+81 - [2023-05-02 09:24:12,054] : DEBUG -> Program output: - Time 5
+81 - [2023-05-02 09:24:12,055] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,056] : DEBUG -> QUANTIDADE DE ITEMS: 200
+ Tempo de Execucao: ---> 0.004178 
+
+81 - [2023-05-02 09:24:12,056] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,056] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 6
+81 - [2023-05-02 09:24:12,069] : DEBUG -> Program output: - Time 6
+81 - [2023-05-02 09:24:12,069] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,070] : DEBUG -> QUANTIDADE DE ITEMS: 200
+ Tempo de Execucao: ---> 0.004224 
+
+81 - [2023-05-02 09:24:12,070] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,070] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 7
+81 - [2023-05-02 09:24:12,085] : DEBUG -> Program output: - Time 7
+81 - [2023-05-02 09:24:12,086] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,087] : DEBUG -> QUANTIDADE DE ITEMS: 200
+ Tempo de Execucao: ---> 0.004168 
+
+81 - [2023-05-02 09:24:12,087] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,088] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 8
+81 - [2023-05-02 09:24:12,100] : DEBUG -> Program output: - Time 8
+81 - [2023-05-02 09:24:12,101] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,101] : DEBUG -> QUANTIDADE DE ITEMS: 200
+ Tempo de Execucao: ---> 0.004594 
+
+81 - [2023-05-02 09:24:12,102] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,102] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 9
+81 - [2023-05-02 09:24:12,117] : DEBUG -> Program output: - Time 9
+81 - [2023-05-02 09:24:12,118] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,118] : DEBUG -> QUANTIDADE DE ITEMS: 200
+ Tempo de Execucao: ---> 0.004299 
+
+81 - [2023-05-02 09:24:12,118] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,119] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 10
+81 - [2023-05-02 09:24:12,131] : DEBUG -> Program output: - Time 10
+81 - [2023-05-02 09:24:12,132] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,132] : DEBUG -> QUANTIDADE DE ITEMS: 200
+ Tempo de Execucao: ---> 0.004201 
+
+81 - [2023-05-02 09:24:12,133] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,133] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 11
+81 - [2023-05-02 09:24:12,148] : DEBUG -> Program output: - Time 11
+81 - [2023-05-02 09:24:12,148] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,149] : DEBUG -> QUANTIDADE DE ITEMS: 200
+ Tempo de Execucao: ---> 0.004186 
+
+81 - [2023-05-02 09:24:12,149] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,149] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc200.csv - Time 12
+81 - [2023-05-02 09:24:12,162] : DEBUG -> Program output: - Time 12
+81 - [2023-05-02 09:24:12,162] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,163] : DEBUG -> QUANTIDADE DE ITEMS: 200
+ Tempo de Execucao: ---> 0.004200 
+
+81 - [2023-05-02 09:24:12,163] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:12,167] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 0
+81 - [2023-05-02 09:24:16,269] : DEBUG -> Program output: - Time 0
+81 - [2023-05-02 09:24:16,269] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:16,269] : DEBUG -> QUANTIDADE DE ITEMS: 2000
+ Tempo de Execucao: ---> 4.087187 
+
+81 - [2023-05-02 09:24:16,270] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:16,270] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 1
+81 - [2023-05-02 09:24:20,392] : DEBUG -> Program output: - Time 1
+81 - [2023-05-02 09:24:20,393] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:20,393] : DEBUG -> QUANTIDADE DE ITEMS: 2000
+ Tempo de Execucao: ---> 4.106470 
+
+81 - [2023-05-02 09:24:20,394] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:20,394] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 2
+81 - [2023-05-02 09:24:24,503] : DEBUG -> Program output: - Time 2
+81 - [2023-05-02 09:24:24,504] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:24,504] : DEBUG -> QUANTIDADE DE ITEMS: 2000
+ Tempo de Execucao: ---> 4.094078 
+
+81 - [2023-05-02 09:24:24,504] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:24,504] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 3
+81 - [2023-05-02 09:24:28,604] : DEBUG -> Program output: - Time 3
+81 - [2023-05-02 09:24:28,605] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:28,605] : DEBUG -> QUANTIDADE DE ITEMS: 2000
+ Tempo de Execucao: ---> 4.087231 
+
+81 - [2023-05-02 09:24:28,606] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:28,606] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 4
+81 - [2023-05-02 09:24:32,719] : DEBUG -> Program output: - Time 4
+81 - [2023-05-02 09:24:32,719] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:32,720] : DEBUG -> QUANTIDADE DE ITEMS: 2000
+ Tempo de Execucao: ---> 4.099306 
+
+81 - [2023-05-02 09:24:32,720] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:32,720] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 5
+81 - [2023-05-02 09:24:36,822] : DEBUG -> Program output: - Time 5
+81 - [2023-05-02 09:24:36,822] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:36,823] : DEBUG -> QUANTIDADE DE ITEMS: 2000
+ Tempo de Execucao: ---> 4.084270 
+
+81 - [2023-05-02 09:24:36,823] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:36,823] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 6
+81 - [2023-05-02 09:24:40,934] : DEBUG -> Program output: - Time 6
+81 - [2023-05-02 09:24:40,934] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:40,935] : DEBUG -> QUANTIDADE DE ITEMS: 2000
+ Tempo de Execucao: ---> 4.097269 
+
+81 - [2023-05-02 09:24:40,935] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:40,935] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 7
+81 - [2023-05-02 09:24:45,043] : DEBUG -> Program output: - Time 7
+81 - [2023-05-02 09:24:45,044] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:45,044] : DEBUG -> QUANTIDADE DE ITEMS: 2000
+ Tempo de Execucao: ---> 4.094595 
+
+81 - [2023-05-02 09:24:45,044] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:45,044] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 8
+81 - [2023-05-02 09:24:49,148] : DEBUG -> Program output: - Time 8
+81 - [2023-05-02 09:24:49,148] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:49,149] : DEBUG -> QUANTIDADE DE ITEMS: 2000
+ Tempo de Execucao: ---> 4.090222 
+
+81 - [2023-05-02 09:24:49,149] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:49,149] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 9
+81 - [2023-05-02 09:24:53,246] : DEBUG -> Program output: - Time 9
+81 - [2023-05-02 09:24:53,246] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:53,246] : DEBUG -> QUANTIDADE DE ITEMS: 2000
+ Tempo de Execucao: ---> 4.083033 
+
+81 - [2023-05-02 09:24:53,247] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:53,247] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 10
+81 - [2023-05-02 09:24:57,341] : DEBUG -> Program output: - Time 10
+81 - [2023-05-02 09:24:57,342] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:57,342] : DEBUG -> QUANTIDADE DE ITEMS: 2000
+ Tempo de Execucao: ---> 4.079379 
+
+81 - [2023-05-02 09:24:57,343] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:24:57,343] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 11
+81 - [2023-05-02 09:25:01,434] : DEBUG -> Program output: - Time 11
+81 - [2023-05-02 09:25:01,435] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:01,435] : DEBUG -> QUANTIDADE DE ITEMS: 2000
+ Tempo de Execucao: ---> 4.076553 
+
+81 - [2023-05-02 09:25:01,435] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:01,436] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc2000.csv - Time 12
+81 - [2023-05-02 09:25:05,533] : DEBUG -> Program output: - Time 12
+81 - [2023-05-02 09:25:05,533] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,533] : DEBUG -> QUANTIDADE DE ITEMS: 2000
+ Tempo de Execucao: ---> 4.082506 
+
+81 - [2023-05-02 09:25:05,534] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,536] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 0
+81 - [2023-05-02 09:25:05,560] : DEBUG -> Program output: - Time 0
+81 - [2023-05-02 09:25:05,561] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,561] : DEBUG -> QUANTIDADE DE ITEMS: 300
+ Tempo de Execucao: ---> 0.014247 
+
+81 - [2023-05-02 09:25:05,561] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,562] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 1
+81 - [2023-05-02 09:25:05,586] : DEBUG -> Program output: - Time 1
+81 - [2023-05-02 09:25:05,587] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,587] : DEBUG -> QUANTIDADE DE ITEMS: 300
+ Tempo de Execucao: ---> 0.014187 
+
+81 - [2023-05-02 09:25:05,587] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,588] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 2
+81 - [2023-05-02 09:25:05,612] : DEBUG -> Program output: - Time 2
+81 - [2023-05-02 09:25:05,612] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,612] : DEBUG -> QUANTIDADE DE ITEMS: 300
+ Tempo de Execucao: ---> 0.014221 
+
+81 - [2023-05-02 09:25:05,613] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,613] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 3
+81 - [2023-05-02 09:25:05,637] : DEBUG -> Program output: - Time 3
+81 - [2023-05-02 09:25:05,637] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,638] : DEBUG -> QUANTIDADE DE ITEMS: 300
+ Tempo de Execucao: ---> 0.014022 
+
+81 - [2023-05-02 09:25:05,638] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,638] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 4
+81 - [2023-05-02 09:25:05,663] : DEBUG -> Program output: - Time 4
+81 - [2023-05-02 09:25:05,663] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,664] : DEBUG -> QUANTIDADE DE ITEMS: 300
+ Tempo de Execucao: ---> 0.014016 
+
+81 - [2023-05-02 09:25:05,664] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,664] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 5
+81 - [2023-05-02 09:25:05,688] : DEBUG -> Program output: - Time 5
+81 - [2023-05-02 09:25:05,689] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,689] : DEBUG -> QUANTIDADE DE ITEMS: 300
+ Tempo de Execucao: ---> 0.014133 
+
+81 - [2023-05-02 09:25:05,690] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,690] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 6
+81 - [2023-05-02 09:25:05,714] : DEBUG -> Program output: - Time 6
+81 - [2023-05-02 09:25:05,715] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,715] : DEBUG -> QUANTIDADE DE ITEMS: 300
+ Tempo de Execucao: ---> 0.014040 
+
+81 - [2023-05-02 09:25:05,715] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,716] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 7
+81 - [2023-05-02 09:25:05,740] : DEBUG -> Program output: - Time 7
+81 - [2023-05-02 09:25:05,741] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,741] : DEBUG -> QUANTIDADE DE ITEMS: 300
+ Tempo de Execucao: ---> 0.014381 
+
+81 - [2023-05-02 09:25:05,741] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,741] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 8
+81 - [2023-05-02 09:25:05,765] : DEBUG -> Program output: - Time 8
+81 - [2023-05-02 09:25:05,765] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,766] : DEBUG -> QUANTIDADE DE ITEMS: 300
+ Tempo de Execucao: ---> 0.014254 
+
+81 - [2023-05-02 09:25:05,766] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,766] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 9
+81 - [2023-05-02 09:25:05,789] : DEBUG -> Program output: - Time 9
+81 - [2023-05-02 09:25:05,789] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,789] : DEBUG -> QUANTIDADE DE ITEMS: 300
+ Tempo de Execucao: ---> 0.014259 
+
+81 - [2023-05-02 09:25:05,790] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,790] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 10
+81 - [2023-05-02 09:25:05,814] : DEBUG -> Program output: - Time 10
+81 - [2023-05-02 09:25:05,814] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,815] : DEBUG -> QUANTIDADE DE ITEMS: 300
+ Tempo de Execucao: ---> 0.014009 
+
+81 - [2023-05-02 09:25:05,815] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,816] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 11
+81 - [2023-05-02 09:25:05,839] : DEBUG -> Program output: - Time 11
+81 - [2023-05-02 09:25:05,840] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,840] : DEBUG -> QUANTIDADE DE ITEMS: 300
+ Tempo de Execucao: ---> 0.014142 
+
+81 - [2023-05-02 09:25:05,841] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,841] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc300.csv - Time 12
+81 - [2023-05-02 09:25:05,865] : DEBUG -> Program output: - Time 12
+81 - [2023-05-02 09:25:05,866] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,866] : DEBUG -> QUANTIDADE DE ITEMS: 300
+ Tempo de Execucao: ---> 0.014216 
+
+81 - [2023-05-02 09:25:05,867] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:05,869] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 0
+81 - [2023-05-02 09:25:19,643] : DEBUG -> Program output: - Time 0
+81 - [2023-05-02 09:25:19,643] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:19,643] : DEBUG -> QUANTIDADE DE ITEMS: 3000
+ Tempo de Execucao: ---> 13.755593 
+
+81 - [2023-05-02 09:25:19,644] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:19,644] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 1
+81 - [2023-05-02 09:25:33,420] : DEBUG -> Program output: - Time 1
+81 - [2023-05-02 09:25:33,420] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:33,420] : DEBUG -> QUANTIDADE DE ITEMS: 3000
+ Tempo de Execucao: ---> 13.760000 
+
+81 - [2023-05-02 09:25:33,421] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:33,421] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 2
+81 - [2023-05-02 09:25:47,231] : DEBUG -> Program output: - Time 2
+81 - [2023-05-02 09:25:47,232] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:47,232] : DEBUG -> QUANTIDADE DE ITEMS: 3000
+ Tempo de Execucao: ---> 13.792321 
+
+81 - [2023-05-02 09:25:47,232] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:25:47,233] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 3
+81 - [2023-05-02 09:26:01,041] : DEBUG -> Program output: - Time 3
+81 - [2023-05-02 09:26:01,042] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:26:01,042] : DEBUG -> QUANTIDADE DE ITEMS: 3000
+ Tempo de Execucao: ---> 13.791345 
+
+81 - [2023-05-02 09:26:01,042] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:26:01,042] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 4
+81 - [2023-05-02 09:26:14,832] : DEBUG -> Program output: - Time 4
+81 - [2023-05-02 09:26:14,833] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:26:14,833] : DEBUG -> QUANTIDADE DE ITEMS: 3000
+ Tempo de Execucao: ---> 13.773885 
+
+81 - [2023-05-02 09:26:14,833] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:26:14,834] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 5
+81 - [2023-05-02 09:26:28,620] : DEBUG -> Program output: - Time 5
+81 - [2023-05-02 09:26:28,620] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:26:28,621] : DEBUG -> QUANTIDADE DE ITEMS: 3000
+ Tempo de Execucao: ---> 13.770887 
+
+81 - [2023-05-02 09:26:28,621] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:26:28,621] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 6
+81 - [2023-05-02 09:26:42,389] : DEBUG -> Program output: - Time 6
+81 - [2023-05-02 09:26:42,390] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:26:42,390] : DEBUG -> QUANTIDADE DE ITEMS: 3000
+ Tempo de Execucao: ---> 13.751070 
+
+81 - [2023-05-02 09:26:42,391] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:26:42,391] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 7
+81 - [2023-05-02 09:26:56,199] : DEBUG -> Program output: - Time 7
+81 - [2023-05-02 09:26:56,199] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:26:56,200] : DEBUG -> QUANTIDADE DE ITEMS: 3000
+ Tempo de Execucao: ---> 13.788121 
+
+81 - [2023-05-02 09:26:56,200] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:26:56,201] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 8
+81 - [2023-05-02 09:27:10,090] : DEBUG -> Program output: - Time 8
+81 - [2023-05-02 09:27:10,090] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:27:10,090] : DEBUG -> QUANTIDADE DE ITEMS: 3000
+ Tempo de Execucao: ---> 13.872936 
+
+81 - [2023-05-02 09:27:10,091] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:27:10,091] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 9
+81 - [2023-05-02 09:27:23,951] : DEBUG -> Program output: - Time 9
+81 - [2023-05-02 09:27:23,952] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:27:23,952] : DEBUG -> QUANTIDADE DE ITEMS: 3000
+ Tempo de Execucao: ---> 13.842385 
+
+81 - [2023-05-02 09:27:23,953] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:27:23,953] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 10
+81 - [2023-05-02 09:27:37,753] : DEBUG -> Program output: - Time 10
+81 - [2023-05-02 09:27:37,753] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:27:37,754] : DEBUG -> QUANTIDADE DE ITEMS: 3000
+ Tempo de Execucao: ---> 13.784971 
+
+81 - [2023-05-02 09:27:37,754] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:27:37,754] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 11
+81 - [2023-05-02 09:27:51,580] : DEBUG -> Program output: - Time 11
+81 - [2023-05-02 09:27:51,581] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:27:51,581] : DEBUG -> QUANTIDADE DE ITEMS: 3000
+ Tempo de Execucao: ---> 13.808312 
+
+81 - [2023-05-02 09:27:51,581] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:27:51,582] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc3000.csv - Time 12
+81 - [2023-05-02 09:28:05,385] : DEBUG -> Program output: - Time 12
+81 - [2023-05-02 09:28:05,386] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,386] : DEBUG -> QUANTIDADE DE ITEMS: 3000
+ Tempo de Execucao: ---> 13.786480 
+
+81 - [2023-05-02 09:28:05,386] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,389] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 0
+81 - [2023-05-02 09:28:05,431] : DEBUG -> Program output: - Time 0
+81 - [2023-05-02 09:28:05,432] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,432] : DEBUG -> QUANTIDADE DE ITEMS: 400
+ Tempo de Execucao: ---> 0.033200 
+
+81 - [2023-05-02 09:28:05,432] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,433] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 1
+81 - [2023-05-02 09:28:05,477] : DEBUG -> Program output: - Time 1
+81 - [2023-05-02 09:28:05,477] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,478] : DEBUG -> QUANTIDADE DE ITEMS: 400
+ Tempo de Execucao: ---> 0.033605 
+
+81 - [2023-05-02 09:28:05,478] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,478] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 2
+81 - [2023-05-02 09:28:05,521] : DEBUG -> Program output: - Time 2
+81 - [2023-05-02 09:28:05,521] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,522] : DEBUG -> QUANTIDADE DE ITEMS: 400
+ Tempo de Execucao: ---> 0.033274 
+
+81 - [2023-05-02 09:28:05,522] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,522] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 3
+81 - [2023-05-02 09:28:05,567] : DEBUG -> Program output: - Time 3
+81 - [2023-05-02 09:28:05,568] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,568] : DEBUG -> QUANTIDADE DE ITEMS: 400
+ Tempo de Execucao: ---> 0.033699 
+
+81 - [2023-05-02 09:28:05,569] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,569] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 4
+81 - [2023-05-02 09:28:05,612] : DEBUG -> Program output: - Time 4
+81 - [2023-05-02 09:28:05,612] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,613] : DEBUG -> QUANTIDADE DE ITEMS: 400
+ Tempo de Execucao: ---> 0.033675 
+
+81 - [2023-05-02 09:28:05,613] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,613] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 5
+81 - [2023-05-02 09:28:05,658] : DEBUG -> Program output: - Time 5
+81 - [2023-05-02 09:28:05,658] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,659] : DEBUG -> QUANTIDADE DE ITEMS: 400
+ Tempo de Execucao: ---> 0.033775 
+
+81 - [2023-05-02 09:28:05,659] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,659] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 6
+81 - [2023-05-02 09:28:05,701] : DEBUG -> Program output: - Time 6
+81 - [2023-05-02 09:28:05,702] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,702] : DEBUG -> QUANTIDADE DE ITEMS: 400
+ Tempo de Execucao: ---> 0.033455 
+
+81 - [2023-05-02 09:28:05,702] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,703] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 7
+81 - [2023-05-02 09:28:05,748] : DEBUG -> Program output: - Time 7
+81 - [2023-05-02 09:28:05,749] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,749] : DEBUG -> QUANTIDADE DE ITEMS: 400
+ Tempo de Execucao: ---> 0.033592 
+
+81 - [2023-05-02 09:28:05,750] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,750] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 8
+81 - [2023-05-02 09:28:05,793] : DEBUG -> Program output: - Time 8
+81 - [2023-05-02 09:28:05,793] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,794] : DEBUG -> QUANTIDADE DE ITEMS: 400
+ Tempo de Execucao: ---> 0.033621 
+
+81 - [2023-05-02 09:28:05,794] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,794] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 9
+81 - [2023-05-02 09:28:05,839] : DEBUG -> Program output: - Time 9
+81 - [2023-05-02 09:28:05,839] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,840] : DEBUG -> QUANTIDADE DE ITEMS: 400
+ Tempo de Execucao: ---> 0.033392 
+
+81 - [2023-05-02 09:28:05,840] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,840] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 10
+81 - [2023-05-02 09:28:05,882] : DEBUG -> Program output: - Time 10
+81 - [2023-05-02 09:28:05,882] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,883] : DEBUG -> QUANTIDADE DE ITEMS: 400
+ Tempo de Execucao: ---> 0.033560 
+
+81 - [2023-05-02 09:28:05,883] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,884] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 11
+81 - [2023-05-02 09:28:05,927] : DEBUG -> Program output: - Time 11
+81 - [2023-05-02 09:28:05,928] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,928] : DEBUG -> QUANTIDADE DE ITEMS: 400
+ Tempo de Execucao: ---> 0.033562 
+
+81 - [2023-05-02 09:28:05,929] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,929] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc400.csv - Time 12
+81 - [2023-05-02 09:28:05,971] : DEBUG -> Program output: - Time 12
+81 - [2023-05-02 09:28:05,972] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,972] : DEBUG -> QUANTIDADE DE ITEMS: 400
+ Tempo de Execucao: ---> 0.033491 
+
+81 - [2023-05-02 09:28:05,972] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:05,975] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 0
+81 - [2023-05-02 09:28:38,700] : DEBUG -> Program output: - Time 0
+81 - [2023-05-02 09:28:38,701] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:38,701] : DEBUG -> QUANTIDADE DE ITEMS: 4000
+ Tempo de Execucao: ---> 32.704399 
+
+81 - [2023-05-02 09:28:38,702] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:28:38,702] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 1
+81 - [2023-05-02 09:29:11,485] : DEBUG -> Program output: - Time 1
+81 - [2023-05-02 09:29:11,485] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:29:11,485] : DEBUG -> QUANTIDADE DE ITEMS: 4000
+ Tempo de Execucao: ---> 32.763368 
+
+81 - [2023-05-02 09:29:11,486] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:29:11,486] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 2
+81 - [2023-05-02 09:29:44,171] : DEBUG -> Program output: - Time 2
+81 - [2023-05-02 09:29:44,171] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:29:44,171] : DEBUG -> QUANTIDADE DE ITEMS: 4000
+ Tempo de Execucao: ---> 32.663168 
+
+81 - [2023-05-02 09:29:44,172] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:29:44,172] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 3
+81 - [2023-05-02 09:30:16,955] : DEBUG -> Program output: - Time 3
+81 - [2023-05-02 09:30:16,955] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:30:16,956] : DEBUG -> QUANTIDADE DE ITEMS: 4000
+ Tempo de Execucao: ---> 32.762415 
+
+81 - [2023-05-02 09:30:16,956] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:30:16,957] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 4
+81 - [2023-05-02 09:30:49,746] : DEBUG -> Program output: - Time 4
+81 - [2023-05-02 09:30:49,746] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:30:49,747] : DEBUG -> QUANTIDADE DE ITEMS: 4000
+ Tempo de Execucao: ---> 32.770187 
+
+81 - [2023-05-02 09:30:49,747] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:30:49,748] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 5
+81 - [2023-05-02 09:31:22,623] : DEBUG -> Program output: - Time 5
+81 - [2023-05-02 09:31:22,624] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:31:22,624] : DEBUG -> QUANTIDADE DE ITEMS: 4000
+ Tempo de Execucao: ---> 32.854673 
+
+81 - [2023-05-02 09:31:22,624] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:31:22,625] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 6
+81 - [2023-05-02 09:31:55,372] : DEBUG -> Program output: - Time 6
+81 - [2023-05-02 09:31:55,372] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:31:55,373] : DEBUG -> QUANTIDADE DE ITEMS: 4000
+ Tempo de Execucao: ---> 32.724705 
+
+81 - [2023-05-02 09:31:55,373] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:31:55,373] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 7
+81 - [2023-05-02 09:32:28,058] : DEBUG -> Program output: - Time 7
+81 - [2023-05-02 09:32:28,058] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:32:28,058] : DEBUG -> QUANTIDADE DE ITEMS: 4000
+ Tempo de Execucao: ---> 32.665615 
+
+81 - [2023-05-02 09:32:28,059] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:32:28,059] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 8
+81 - [2023-05-02 09:33:00,932] : DEBUG -> Program output: - Time 8
+81 - [2023-05-02 09:33:00,933] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:33:00,933] : DEBUG -> QUANTIDADE DE ITEMS: 4000
+ Tempo de Execucao: ---> 32.856283 
+
+81 - [2023-05-02 09:33:00,933] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:33:00,934] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 9
+81 - [2023-05-02 09:33:33,820] : DEBUG -> Program output: - Time 9
+81 - [2023-05-02 09:33:33,821] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:33:33,821] : DEBUG -> QUANTIDADE DE ITEMS: 4000
+ Tempo de Execucao: ---> 32.866958 
+
+81 - [2023-05-02 09:33:33,822] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:33:33,822] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 10
+81 - [2023-05-02 09:34:06,637] : DEBUG -> Program output: - Time 10
+81 - [2023-05-02 09:34:06,637] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:34:06,638] : DEBUG -> QUANTIDADE DE ITEMS: 4000
+ Tempo de Execucao: ---> 32.795756 
+
+81 - [2023-05-02 09:34:06,638] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:34:06,638] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 11
+81 - [2023-05-02 09:34:39,694] : DEBUG -> Program output: - Time 11
+81 - [2023-05-02 09:34:39,695] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:34:39,695] : DEBUG -> QUANTIDADE DE ITEMS: 4000
+ Tempo de Execucao: ---> 33.036198 
+
+81 - [2023-05-02 09:34:39,696] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:34:39,696] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc4000.csv - Time 12
+81 - [2023-05-02 09:35:12,538] : DEBUG -> Program output: - Time 12
+81 - [2023-05-02 09:35:12,538] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:12,538] : DEBUG -> QUANTIDADE DE ITEMS: 4000
+ Tempo de Execucao: ---> 32.820658 
+
+81 - [2023-05-02 09:35:12,539] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:12,541] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 0
+81 - [2023-05-02 09:35:12,616] : DEBUG -> Program output: - Time 0
+81 - [2023-05-02 09:35:12,617] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:12,617] : DEBUG -> QUANTIDADE DE ITEMS: 500
+ Tempo de Execucao: ---> 0.064730 
+
+81 - [2023-05-02 09:35:12,617] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:12,618] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 1
+81 - [2023-05-02 09:35:12,692] : DEBUG -> Program output: - Time 1
+81 - [2023-05-02 09:35:12,693] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:12,693] : DEBUG -> QUANTIDADE DE ITEMS: 500
+ Tempo de Execucao: ---> 0.064512 
+
+81 - [2023-05-02 09:35:12,693] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:12,694] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 2
+81 - [2023-05-02 09:35:12,767] : DEBUG -> Program output: - Time 2
+81 - [2023-05-02 09:35:12,768] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:12,768] : DEBUG -> QUANTIDADE DE ITEMS: 500
+ Tempo de Execucao: ---> 0.064704 
+
+81 - [2023-05-02 09:35:12,768] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:12,769] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 3
+81 - [2023-05-02 09:35:12,843] : DEBUG -> Program output: - Time 3
+81 - [2023-05-02 09:35:12,843] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:12,844] : DEBUG -> QUANTIDADE DE ITEMS: 500
+ Tempo de Execucao: ---> 0.064376 
+
+81 - [2023-05-02 09:35:12,844] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:12,845] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 4
+81 - [2023-05-02 09:35:12,920] : DEBUG -> Program output: - Time 4
+81 - [2023-05-02 09:35:12,921] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:12,921] : DEBUG -> QUANTIDADE DE ITEMS: 500
+ Tempo de Execucao: ---> 0.064676 
+
+81 - [2023-05-02 09:35:12,921] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:12,922] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 5
+81 - [2023-05-02 09:35:12,996] : DEBUG -> Program output: - Time 5
+81 - [2023-05-02 09:35:12,997] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:12,998] : DEBUG -> QUANTIDADE DE ITEMS: 500
+ Tempo de Execucao: ---> 0.064547 
+
+81 - [2023-05-02 09:35:12,999] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:12,999] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 6
+81 - [2023-05-02 09:35:13,076] : DEBUG -> Program output: - Time 6
+81 - [2023-05-02 09:35:13,077] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:13,077] : DEBUG -> QUANTIDADE DE ITEMS: 500
+ Tempo de Execucao: ---> 0.065574 
+
+81 - [2023-05-02 09:35:13,078] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:13,078] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 7
+81 - [2023-05-02 09:35:13,154] : DEBUG -> Program output: - Time 7
+81 - [2023-05-02 09:35:13,155] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:13,155] : DEBUG -> QUANTIDADE DE ITEMS: 500
+ Tempo de Execucao: ---> 0.065018 
+
+81 - [2023-05-02 09:35:13,156] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:13,156] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 8
+81 - [2023-05-02 09:35:13,230] : DEBUG -> Program output: - Time 8
+81 - [2023-05-02 09:35:13,231] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:13,232] : DEBUG -> QUANTIDADE DE ITEMS: 500
+ Tempo de Execucao: ---> 0.064891 
+
+81 - [2023-05-02 09:35:13,232] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:13,233] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 9
+81 - [2023-05-02 09:35:13,308] : DEBUG -> Program output: - Time 9
+81 - [2023-05-02 09:35:13,309] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:13,310] : DEBUG -> QUANTIDADE DE ITEMS: 500
+ Tempo de Execucao: ---> 0.064916 
+
+81 - [2023-05-02 09:35:13,310] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:13,310] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 10
+81 - [2023-05-02 09:35:13,389] : DEBUG -> Program output: - Time 10
+81 - [2023-05-02 09:35:13,390] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:13,390] : DEBUG -> QUANTIDADE DE ITEMS: 500
+ Tempo de Execucao: ---> 0.066794 
+
+81 - [2023-05-02 09:35:13,391] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:13,391] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 11
+81 - [2023-05-02 09:35:13,470] : DEBUG -> Program output: - Time 11
+81 - [2023-05-02 09:35:13,470] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:13,471] : DEBUG -> QUANTIDADE DE ITEMS: 500
+ Tempo de Execucao: ---> 0.066976 
+
+81 - [2023-05-02 09:35:13,471] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:13,471] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc500.csv - Time 12
+81 - [2023-05-02 09:35:13,552] : DEBUG -> Program output: - Time 12
+81 - [2023-05-02 09:35:13,553] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:13,554] : DEBUG -> QUANTIDADE DE ITEMS: 500
+ Tempo de Execucao: ---> 0.068350 
+
+81 - [2023-05-02 09:35:13,555] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:35:13,558] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc5000.csv - Time 0
+81 - [2023-05-02 09:36:17,528] : DEBUG -> Program output: - Time 0
+81 - [2023-05-02 09:36:17,528] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:36:17,528] : DEBUG -> QUANTIDADE DE ITEMS: 5000
+ Tempo de Execucao: ---> 63.937149 
+
+81 - [2023-05-02 09:36:17,528] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:36:17,529] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc5000.csv - Time 1
+81 - [2023-05-02 09:37:21,699] : DEBUG -> Program output: - Time 1
+81 - [2023-05-02 09:37:21,700] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:37:21,700] : DEBUG -> QUANTIDADE DE ITEMS: 5000
+ Tempo de Execucao: ---> 64.148155 
+
+81 - [2023-05-02 09:37:21,700] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:37:21,701] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc5000.csv - Time 2
+81 - [2023-05-02 09:38:25,768] : DEBUG -> Program output: - Time 2
+81 - [2023-05-02 09:38:25,769] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:38:25,769] : DEBUG -> QUANTIDADE DE ITEMS: 5000
+ Tempo de Execucao: ---> 64.043651 
+
+81 - [2023-05-02 09:38:25,770] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:38:25,770] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc5000.csv - Time 3
+81 - [2023-05-02 09:39:30,000] : DEBUG -> Program output: - Time 3
+81 - [2023-05-02 09:39:30,000] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:39:30,001] : DEBUG -> QUANTIDADE DE ITEMS: 5000
+ Tempo de Execucao: ---> 64.209983 
+
+81 - [2023-05-02 09:39:30,001] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:39:30,001] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc5000.csv - Time 4
+81 - [2023-05-02 09:40:34,074] : DEBUG -> Program output: - Time 4
+81 - [2023-05-02 09:40:34,075] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:40:34,075] : DEBUG -> QUANTIDADE DE ITEMS: 5000
+ Tempo de Execucao: ---> 64.051095 
+
+81 - [2023-05-02 09:40:34,076] : DEBUG -> ---------------------------
+81 - [2023-05-02 09:40:34,076] : DEBUG -> Running input: /mnt/c/Users/Guilherme/Documents/GitHub/GuilhermeLPB_FazAlgo_AA_RR_2023-1/code/inputs/asc5000.csv - Time 5

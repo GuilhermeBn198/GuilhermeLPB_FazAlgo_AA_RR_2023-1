@@ -12,17 +12,39 @@ unsigned long time_diff(struct timeval a, struct timeval b) {
   return res.tv_sec * 1000000 + res.tv_usec;
 }
 
+// void FazAlgo(int n) {
+//   int i, j, k;
+//   int controle = 0;
+//   for (i = 1; i < n - 1; i++) {
+//     for (j = i + 1; j <= n; j++) {
+//       for (k = 1; k <= j; k++) {
+//         controle++;
+//       }
+//     }
+//   }
+//   printf("%d\n", controle);
+// }
+
 void FazAlgo(int n) {
   int i, j, k;
   int controle = 0;
   for (i = 1; i < n - 1; i++) {
     for (j = i + 1; j <= n; j++) {
-      for (k = 1; k <= j; k++) {
-        controle++;
-      }
+      controle += (j * (j + 1)) / 2;
     }
+    printf("%d\n", controle);
   }
 }
+
+// void FazAlgo(int n) {
+//   int i, j;
+//   int controle = 0;
+//   for (i = 1; i < n - 1; i++) {
+//     int num_it_j = (n - i) * (n - i + 1) / 2 - i;
+//     controle += num_it_j;
+//   }
+//   printf("%d\n", controle);
+// }
 
 int main(int argc, char **argv) {
   FILE *fp;
