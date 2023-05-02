@@ -10,4 +10,6 @@
   - [click here to see](./testsresults.md)
 
 - Gráfico de linha com o tempo de execução em relação a cada entrada e análise da tendência de comportamente assintótico
+  - 
 - Apresentar um algoritmo que seja mais eficiente, em termos de complexidade, do que o algoritmo análisado
+  - [click here to see](./)
