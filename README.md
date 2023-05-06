@@ -5,7 +5,7 @@
 - Função de custo e complexidade
   - [click here to see](./files/complexity_cost-function.md)
 - Código em C do algoritmo proposto
-  - [click here to see](./code/)
+  - [click here to see](./code/main.c)
 - Experimentação com a execução do algoritmo com diferentes entradas e coleta de tempo de execução
   - [click here to see](./files/testsresults.md)
 
