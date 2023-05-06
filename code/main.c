@@ -22,7 +22,6 @@ void FazAlgo(int n) {
       }
     }
   }
-  printf("%d\n", controle);
 }
 
 int main(int argc, char **argv) {
