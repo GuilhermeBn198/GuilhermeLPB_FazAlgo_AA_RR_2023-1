@@ -32,7 +32,6 @@ void FazAlgov2(int n) {
       controle++;
     }
   }
-  controle = controle * n;
 }
 
 int main(int argc, char **argv) {
