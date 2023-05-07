@@ -14,4 +14,4 @@ Repo about my project of studying the FazAlgo algorithm
 -   Gráfico de linha com o tempo de execução em relação a cada entrada e análise da tendência de comportamento assintótico:
     ![grafico](/files/graphicalrepresentation.png)
 -   Apresentar um algoritmo que seja mais eficiente, em termos de complexidade, do que o algoritmo análisado
-    -   [click here to see](./)
+    -   [click here to see](./files/Algoritmo%20FazAlgo%20apresenta%C3%A7%C3%A3o.pdf)

@@ -22,6 +22,7 @@ void FazAlgo(int n) {
       }
     }
   }
+  printf("%d", controle);
 }
 
 void FazAlgov2(int n) {
@@ -32,6 +33,8 @@ void FazAlgov2(int n) {
       controle++;
     }
   }
+  controle = controle * n;
+  printf("%d", controle);
 }
 
 int main(int argc, char **argv) {
