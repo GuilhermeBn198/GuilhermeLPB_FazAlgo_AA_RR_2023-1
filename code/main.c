@@ -24,6 +24,17 @@ void FazAlgo(int n) {
   }
 }
 
+void FazAlgov2(int n) {
+  int i, j, k;
+  int controle = 0;
+  for (i = 1; i < n - 1; i++) {
+    for (j = 1 + 1; j <= n; j++) {
+      controle++;
+    }
+  }
+  controle = controle * n;
+}
+
 int main(int argc, char **argv) {
   FILE *fp;
   int num, count = 0;

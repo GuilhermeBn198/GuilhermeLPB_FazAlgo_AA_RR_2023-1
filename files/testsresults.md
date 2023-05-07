@@ -7,7 +7,7 @@
 -   Processador: Ryzen 7 5700G
 -   Placa de Vídeo: AMD Radeon™ Graphics
 -   Sistema Operacional: Ubuntu linux(wsl mode on Windows 11 Home 22H2)
--   SSD 512GB NVME M2
+-   SSD 512GB NVME M2 Leitura 7200MB/s - Gravação 2600MB/s
 
 ## Resultados dos testes(média de 13 testes)
 
