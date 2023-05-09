@@ -22,19 +22,17 @@ void FazAlgo(int n) {
       }
     }
   }
-  printf("%d", controle);
 }
 
 void FazAlgov2(int n) {
   int i, j, k;
   int controle = 0;
   for (i = 1; i < n - 1; i++) {
-    for (j = 1 + 1; j <= n; j++) {
+    for (j = i + 1; j <= n; j++) {
       controle++;
+      controle = controle + (j - 1);
     }
   }
-  controle = (controle * n) / 2;
-  printf("%d", controle);
 }
 
 int main(int argc, char **argv) {
@@ -60,7 +58,7 @@ int main(int argc, char **argv) {
   fclose(fp);
 
   gettimeofday(&t1, NULL);
-  FazAlgo(n);
+  FazAlgov2(n);
   gettimeofday(&t2, NULL);
 
   printf("\n Tempo de Execucao: ---> %lf \n", time_diff(t2, t1) / 1000000.0);
