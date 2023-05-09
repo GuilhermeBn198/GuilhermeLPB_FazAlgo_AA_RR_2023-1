@@ -79,12 +79,12 @@ n_cube = [
 i_cubed = [((2*(n**3)) - 3*(n**2) + n)/2 for n in n_cube]
 
 # Plotar o gráfico com as médias de tempo e a curva de tendência N^3
-plt.plot(N_values, time_means, label="média de tempo")
+plt.plot(N_values, time_means, label="média de tempo de execução")
 plt.plot(N_values, i_cubed, label="N³")
 plt.xlabel("N")
 plt.ylabel("Tempo(em segundos)")
 plt.title("Curva de Tendência a N³")
 plt.legend()
 plt.ylim(bottom=0, top=10000)  # definindo o Limite do eixo y
-
+ 
 plt.show()
