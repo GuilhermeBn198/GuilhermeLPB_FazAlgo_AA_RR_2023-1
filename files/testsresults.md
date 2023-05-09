@@ -50,7 +50,7 @@
 -   arquivo com 4000 entradas: 21.50791
 -   arquivo com 5000 entradas: 42.01840
 -   arquivo com 6000 entradas: 72.92552
--   arquivo com 7000 entradas: 0.00053
+-   arquivo com 7000 entradas: 115.90335
 -   arquivo com 8000 entradas: 0.00053
 -   arquivo com 9000 entradas: 0.00053
 -   arquivo com 10000 entradas: 0.00053
@@ -610,6 +610,19 @@
 73.145872,
 73.164018
 ### arquivo com 7000 entradas:
+116.062312,
+115.836269,
+115.732589,
+115.714457,
+115.743606,
+115.790979,
+115.718024,
+115.960471,
+116.607409,
+116.197810,
+115.896313,
+115.756988,
+115.726365
 ### arquivo com 8000 entradas:
 ### arquivo com 9000 entradas:
 ### arquivo com 10000 entradas:

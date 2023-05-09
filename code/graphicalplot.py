@@ -26,7 +26,7 @@ N_values = [
     20000,
 ]
 
-# Médias de tempo correspondentes aos valores de N acima
+# Médias de tempo correspondentes aos valores de N acima (ALGORITMO ORIGINAL)
 time_means = [
     0.00053,
     0.00417,
@@ -50,7 +50,27 @@ time_means = [
     1676.00652,
     3996.38799
 ]
-
+ 
+# Médias de tempo correspondentes aos valores de N acima (ALGORITMO APRIMORADO)
+time_meansv2 = [
+    0.00037,
+    0.00283,
+    0.00933,
+    0.02192,
+    0.04563,
+    0.07406,
+    0.11704,
+    0.17475,
+    0.24806,
+    0.33852,
+    2.70273,
+    9.09363,
+    21.50791,
+    42.01840,
+    72.92552,
+    115.90335
+]
+##################################################
 n_cube = [
     0.1, 
     0.2, 
@@ -79,7 +99,8 @@ n_cube = [
 i_cubed = [((2*(n**3)) - 3*(n**2) + n)/2 for n in n_cube]
 
 # Plotar o gráfico com as médias de tempo e a curva de tendência N^3
-plt.plot(N_values, time_means, label="média de tempo de execução")
+plt.plot(N_values, time_means, label="média de tempo de execução do algoritmo original")
+plt.plot(N_values, time_meansv2, label="média de tempo de execução do algoritmo aprimorado")
 plt.plot(N_values, i_cubed, label="N³")
 plt.xlabel("N")
 plt.ylabel("Tempo(em segundos)")
