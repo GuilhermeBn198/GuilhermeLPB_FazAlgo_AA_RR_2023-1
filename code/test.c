@@ -34,7 +34,6 @@ void FazAlgov2(int n) {
       controle = controle + (j - 1);
     }
   }
-  printf("%d", controle);
 }
 
 int main(int argc, char **argv) {

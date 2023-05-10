@@ -51,11 +51,19 @@
 -   arquivo com 5000 entradas: 42.01840
 -   arquivo com 6000 entradas: 72.92552
 -   arquivo com 7000 entradas: 115.90335
--   arquivo com 8000 entradas: 0.00053
--   arquivo com 9000 entradas: 0.00053
--   arquivo com 10000 entradas: 0.00053
--   arquivo com 15000 entradas: 0.00053
--   arquivo com 20000 entradas: 0.00053
+-   arquivo com 8000 entradas: 172.45884
+-   arquivo com 9000 entradas: 244.77263
+-   arquivo com 10000 entradas: 335.80355
+-   arquivo com 15000 entradas: 1147.38451
+-   arquivo com 20000 entradas: 2685.374574
+
+
+## comparativo media de tempo entre todos os testes alg velho x alg novo
+
+- alg velho: 341.56996
+- algo novo: 230.99895
+
+### o Algoritmo Otimizado é 32,3715% mais eficiente que o Original
 
 ## Resultados brutos:[Algoritmo Original]
 
@@ -624,7 +632,62 @@
 115.756988,
 115.726365
 ### arquivo com 8000 entradas:
+172.689782,
+172.583936,
+172.321976,
+172.504259,
+172.179845,
+172.942752,
+172.373073,
+172.443316,
+172.186608,
+173.119516,
+172.520345,
+172.053780,
+172.045767
 ### arquivo com 9000 entradas:
+243.780829,
+243.569418,
+243.841432,
+245.138975,
+244.434051,
+244.333878,
+244.494695,
+244.680812,
+244.976107,
+245.540150,
+245.916945,
+245.759806,
+245.577184
 ### arquivo com 10000 entradas:
+335.694407,
+335.689595,
+335.694013,
+335.661658,
+336.121665,
+335.803869,
+335.773068,
+335.860642,
+335.807323,
+335.867984,
+335.801992,
+336.159641,
+335.510369
 ### arquivo com 15000 entradas:
+1132.790997,
+1133.287572,
+1133.605820,
+1133.107679,
+1133.339428,
+1133.322247,
+1151.578168,
+1165.378049,
+1157.514632,
+1164.670832,
+1167.326569,
+1162.692219,
 ### arquivo com 20000 entradas:
+2721.455474,
+2685.374574,
+2680.445754,
+2672.874535
